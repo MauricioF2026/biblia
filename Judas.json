@@ -1,0 +1,3429 @@
+[
+  {
+    "referencia": "Judas 1:1\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ἰούδας Ἰησοῦ Χριστοῦ δοῦλος, ἀδελφὸς δὲ Ἰακώβου, τοῖς ἐν θεῷ πατρὶ ἠγαπημένοις καὶ Ἰησοῦ Χριστῷ τετηρημένοις κλητοῖς·",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ἰούδας",
+        "lemma": "Ἰούδας",
+        "strong": "2455",
+        "parsing": "N-NSM",
+        "translation": "Judas"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "de Jesús"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "δοῦλος,",
+        "lemma": "δοῦλος",
+        "strong": "1401",
+        "parsing": "N-NSM",
+        "translation": "esclavo"
+      },
+      {
+        "original": "ἀδελφὸς",
+        "lemma": "ἀδελφός",
+        "strong": "80",
+        "parsing": "N-NSM",
+        "translation": "hermano"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "Ἰακώβου,",
+        "lemma": "Ἰάκωβος",
+        "strong": "2385",
+        "parsing": "N-GSM",
+        "translation": "de Jacobo"
+      },
+      {
+        "original": "τοῖς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DPM",
+        "translation": "a los"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "θεῷ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-DSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "πατρὶ",
+        "lemma": "πατήρ",
+        "strong": "3962",
+        "parsing": "N-DSM",
+        "translation": "Padre"
+      },
+      {
+        "original": "ἠγαπημένοις",
+        "lemma": "ἀγαπάω",
+        "strong": "25",
+        "parsing": "V-RPP-DPM",
+        "translation": "han sido amados"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-DSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστῷ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-DSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "τετηρημένοις",
+        "lemma": "τηρέω",
+        "strong": "5083",
+        "parsing": "V-RPP-DPM",
+        "translation": "han sido guardados"
+      },
+      {
+        "original": "κλητοῖς·",
+        "lemma": "κλητός",
+        "strong": "2822",
+        "parsing": "A-DPM",
+        "translation": "llamados"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:2\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἔλεος ὑμῖν καὶ εἰρήνη καὶ ἀγάπη πληθυνθείη.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἔλεος",
+        "lemma": "ἔλεος",
+        "strong": "1656",
+        "parsing": "N-NSN",
+        "translation": "Misericordia"
+      },
+      {
+        "original": "ὑμῖν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "εἰρήνη",
+        "lemma": "εἰρήνη",
+        "strong": "1515",
+        "parsing": "N-NSF",
+        "translation": "paz"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἀγάπη",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-NSF",
+        "translation": "amor"
+      },
+      {
+        "original": "πληθυνθείη.",
+        "lemma": "πληθύνω",
+        "strong": "4129",
+        "parsing": "V-APO-3S",
+        "translation": "sea aumentado"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:3\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς ἡμῶν σωτηρίας ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ἀγαπητοί,",
+        "lemma": "ἀγαπητός",
+        "strong": "27",
+        "parsing": "A-VPM",
+        "translation": "Amados"
+      },
+      {
+        "original": "πᾶσαν",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-ASF",
+        "translation": "toda"
+      },
+      {
+        "original": "σπουδὴν",
+        "lemma": "σπουδή",
+        "strong": "4710",
+        "parsing": "N-ASF",
+        "translation": "rapidez"
+      },
+      {
+        "original": "ποιούμενος",
+        "lemma": "ποιέω",
+        "strong": "4160",
+        "parsing": "V-PMP-NSM",
+        "translation": "haciéndose"
+      },
+      {
+        "original": "γράφειν",
+        "lemma": "γράφω",
+        "strong": "1125",
+        "parsing": "V-PAN",
+        "translation": "estar escribiendo"
+      },
+      {
+        "original": "ὑμῖν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "acerca de"
+      },
+      {
+        "original": "τῆς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSF",
+        "translation": "la"
+      },
+      {
+        "original": "κοινῆς",
+        "lemma": "κοινός",
+        "strong": "2839",
+        "parsing": "A-GSF",
+        "translation": "de común"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "σωτηρίας",
+        "lemma": "σωτηρία",
+        "strong": "4991",
+        "parsing": "N-GSF",
+        "translation": "liberación"
+      },
+      {
+        "original": "ἀνάγκην",
+        "lemma": "ἀνάγκη",
+        "strong": "318",
+        "parsing": "N-ASF",
+        "translation": "necesidad"
+      },
+      {
+        "original": "ἔσχον",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-2AAI-1S",
+        "translation": "tuve"
+      },
+      {
+        "original": "γράψαι",
+        "lemma": "γράφω",
+        "strong": "1125",
+        "parsing": "V-AAN",
+        "translation": "escribir"
+      },
+      {
+        "original": "ὑμῖν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "παρακαλῶν",
+        "lemma": "παρακαλέω",
+        "strong": "3870",
+        "parsing": "V-PAP-NSM",
+        "translation": "animando"
+      },
+      {
+        "original": "ἐπαγωνίζεσθαι",
+        "lemma": "ἐπαγωνίζομαι",
+        "strong": "1864",
+        "parsing": "V-PNN",
+        "translation": "estar agonizando luchando sobre"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "la"
+      },
+      {
+        "original": "ἅπαξ",
+        "lemma": "ἅπαξ",
+        "strong": "530",
+        "parsing": "ADV",
+        "translation": "una vez"
+      },
+      {
+        "original": "παραδοθείσῃ",
+        "lemma": "παραδίδωμι",
+        "strong": "3860",
+        "parsing": "V-APP-DSF",
+        "translation": "habiendo sido entregada"
+      },
+      {
+        "original": "τοῖς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DPM",
+        "translation": "a los"
+      },
+      {
+        "original": "ἁγίοις",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-DPM",
+        "translation": "santos"
+      },
+      {
+        "original": "πίστει.",
+        "lemma": "πίστις",
+        "strong": "4102",
+        "parsing": "N-DSF",
+        "translation": "fe"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:4\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "παρεισέδυσαν γάρ τινες ἄνθρωποι, οἱ πάλαι προγεγραμμένοι εἰς τοῦτο τὸ κρίμα, ἀσεβεῖς, τὴν τοῦ θεοῦ ἡμῶν χάριτα μετατιθέντες εἰς ἀσέλγειαν καὶ τὸν μόνον δεσπότην καὶ κύριον ἡμῶν Ἰησοῦν Χριστὸν ἀρνούμενοι.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "παρεισέδυσαν",
+        "lemma": "παρεισδύνω",
+        "strong": "3921",
+        "parsing": "V-AAI-3P",
+        "translation": "Se introdujeron furtivamente"
+      },
+      {
+        "original": "γάρ",
+        "lemma": "γάρ",
+        "strong": "1063",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "τινες",
+        "lemma": "τὶς",
+        "strong": "5100",
+        "parsing": "X-NPM",
+        "translation": "algunos"
+      },
+      {
+        "original": "ἄνθρωποι,",
+        "lemma": "ἄνθρωπος",
+        "strong": "444",
+        "parsing": "N-NPM",
+        "translation": "hombres"
+      },
+      {
+        "original": "οἱ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPM",
+        "translation": "los"
+      },
+      {
+        "original": "πάλαι",
+        "lemma": "πάλαι",
+        "strong": "3819",
+        "parsing": "ADV",
+        "translation": "de antiguo"
+      },
+      {
+        "original": "προγεγραμμένοι",
+        "lemma": "προγράφω",
+        "strong": "4270",
+        "parsing": "V-RPP-NPM",
+        "translation": "habiendo sido escrito de antemano"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "τοῦτο",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-ASN",
+        "translation": "a este"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASN",
+        "translation": "el"
+      },
+      {
+        "original": "κρίμα,",
+        "lemma": "κρίμα",
+        "strong": "2917",
+        "parsing": "N-ASN",
+        "translation": "juicio"
+      },
+      {
+        "original": "ἀσεβεῖς,",
+        "lemma": "ἀσεβής",
+        "strong": "765",
+        "parsing": "A-NPM",
+        "translation": "irreverentes"
+      },
+      {
+        "original": "τὴν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASF",
+        "translation": "a la"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "θεοῦ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-GSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "χάριτα",
+        "lemma": "χάρις",
+        "strong": "5485",
+        "parsing": "N-ASF",
+        "translation": "bondad inmerecida"
+      },
+      {
+        "original": "μετατιθέντες",
+        "lemma": "μετατίθημι",
+        "strong": "3346",
+        "parsing": "V-PAP-NPM",
+        "translation": "transfiriendo"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "ἀσέλγειαν",
+        "lemma": "ἀσέλγεια",
+        "strong": "766",
+        "parsing": "N-ASF",
+        "translation": "conducta libertina descarada desafiante"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τὸν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASM",
+        "translation": "a el"
+      },
+      {
+        "original": "μόνον",
+        "lemma": "μόνος",
+        "strong": "3441",
+        "parsing": "A-ASM",
+        "translation": "solo"
+      },
+      {
+        "original": "δεσπότην",
+        "lemma": "δεσπότης",
+        "strong": "1203",
+        "parsing": "N-ASM",
+        "translation": "Dueño"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "κύριον",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-ASM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "Ἰησοῦν",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-ASM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστὸν",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-ASM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "ἀρνούμενοι.",
+        "lemma": "ἀρνέομαι",
+        "strong": "720",
+        "parsing": "V-PNP-NPM",
+        "translation": "repudiando"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:5\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ὑπομνῆσαι δὲ ὑμᾶς βούλομαι, εἰδότας ἅπαξ πάντα, ὅτι κύριος λαὸν ἐκ γῆς Αἰγύπτου σώσας τὸ δεύτερον τοὺς μὴ πιστεύσαντες ἀπώλεσεν,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ὑπομνῆσαι",
+        "lemma": "ὑπομιμνήσκω",
+        "strong": "5279",
+        "parsing": "V-AAN",
+        "translation": "Poner bajo recuerdo"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ὑμᾶς",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2AP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "βούλομαι,",
+        "lemma": "βούλομαι",
+        "strong": "1014",
+        "parsing": "V-PNI-1S",
+        "translation": "estoy queriendo"
+      },
+      {
+        "original": "εἰδότας",
+        "lemma": "εἴδω",
+        "strong": "1492",
+        "parsing": "V-RAP-APM",
+        "translation": "han sabido"
+      },
+      {
+        "original": "ἅπαξ",
+        "lemma": "ἅπαξ",
+        "strong": "530",
+        "parsing": "ADV",
+        "translation": "una vez"
+      },
+      {
+        "original": "πάντα,",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-APN",
+        "translation": "todas (cosas)"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "que"
+      },
+      {
+        "original": "κύριος",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-NSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "λαὸν",
+        "lemma": "λαός",
+        "strong": "2992",
+        "parsing": "N-ASM",
+        "translation": "a pueblo"
+      },
+      {
+        "original": "ἐκ",
+        "lemma": "ἐκ",
+        "strong": "1537",
+        "parsing": "PREP",
+        "translation": "fuera de"
+      },
+      {
+        "original": "γῆς",
+        "lemma": "γῆ",
+        "strong": "1093",
+        "parsing": "N-GSF",
+        "translation": "tierra"
+      },
+      {
+        "original": "Αἰγύπτου",
+        "lemma": "Αἴγυπτος",
+        "strong": "125",
+        "parsing": "N-GSF",
+        "translation": "Egipto"
+      },
+      {
+        "original": "σώσας",
+        "lemma": "σώζω",
+        "strong": "4982",
+        "parsing": "V-AAP-NSM",
+        "translation": "habiendo librado"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASN",
+        "translation": "la"
+      },
+      {
+        "original": "δεύτερον",
+        "lemma": "δεύτερος",
+        "strong": "1208",
+        "parsing": "A-ASN",
+        "translation": "segunda (vez)"
+      },
+      {
+        "original": "τοὺς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APM",
+        "translation": "a los"
+      },
+      {
+        "original": "μὴ",
+        "lemma": "μή",
+        "strong": "3361",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "πιστεύσαντες",
+        "lemma": "πιστεύω",
+        "strong": "4100",
+        "parsing": "V-AAP-NPM",
+        "translation": "habiendo creído"
+      },
+      {
+        "original": "ἀπώλεσεν,",
+        "lemma": "ἀπόλλυμι",
+        "strong": "622",
+        "parsing": "V-AAI-3S",
+        "translation": "destruyó"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:6\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλὰ ἀπολιπόντας τὸ ἴδιον οἰκητήριον εἰς κρίσιν μεγάλης ἡμέρας δεσμοῖς ἀϊδίοις ὑπὸ ζόφον τετήρηκεν·",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἀγγέλους",
+        "lemma": "ἄγγελος",
+        "strong": "32",
+        "parsing": "N-APM",
+        "translation": "A mensajeros"
+      },
+      {
+        "original": "τε",
+        "lemma": "τέ",
+        "strong": "5037",
+        "parsing": "PRT",
+        "translation": "y"
+      },
+      {
+        "original": "τοὺς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APM",
+        "translation": "los"
+      },
+      {
+        "original": "μὴ",
+        "lemma": "μή",
+        "strong": "3361",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "τηρήσαντας",
+        "lemma": "τηρέω",
+        "strong": "5083",
+        "parsing": "V-AAP-APM",
+        "translation": "habiendo guardado"
+      },
+      {
+        "original": "τὴν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASF",
+        "translation": "a la (posición)"
+      },
+      {
+        "original": "ἑαυτῶν",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-3GPM",
+        "translation": "de ellos mismos"
+      },
+      {
+        "original": "ἀρχὴν",
+        "lemma": "ἀρχή",
+        "strong": "746",
+        "parsing": "N-ASF",
+        "translation": "principio"
+      },
+      {
+        "original": "ἀλλὰ",
+        "lemma": "ἀλλά",
+        "strong": "235",
+        "parsing": "CONJ",
+        "translation": "sino"
+      },
+      {
+        "original": "ἀπολιπόντας",
+        "lemma": "ἀπολείπω",
+        "strong": "620",
+        "parsing": "V-2AAP-APM",
+        "translation": "habiendo dejado atrás"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASN",
+        "translation": "a la"
+      },
+      {
+        "original": "ἴδιον",
+        "lemma": "ἴδιος",
+        "strong": "2398",
+        "parsing": "A-ASN",
+        "translation": "propia"
+      },
+      {
+        "original": "οἰκητήριον",
+        "lemma": "οἰκητήριον",
+        "strong": "3613",
+        "parsing": "N-ASN",
+        "translation": "casa de habitación"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "κρίσιν",
+        "lemma": "κρίσις",
+        "strong": "2920",
+        "parsing": "N-ASF",
+        "translation": "a juicio"
+      },
+      {
+        "original": "μεγάλης",
+        "lemma": "μέγας",
+        "strong": "3173",
+        "parsing": "A-GSF",
+        "translation": "grande"
+      },
+      {
+        "original": "ἡμέρας",
+        "lemma": "ἡμέρα",
+        "strong": "2250",
+        "parsing": "N-GSF",
+        "translation": "de día"
+      },
+      {
+        "original": "δεσμοῖς",
+        "lemma": "δεσμόν",
+        "strong": "1199",
+        "parsing": "N-DPM",
+        "translation": "cadenas"
+      },
+      {
+        "original": "ἀϊδίοις",
+        "lemma": "ἀΐδιος",
+        "strong": "126",
+        "parsing": "A-DPM",
+        "translation": "siempre siendo"
+      },
+      {
+        "original": "ὑπὸ",
+        "lemma": "ὑπό",
+        "strong": "5259",
+        "parsing": "PREP",
+        "translation": "bajo"
+      },
+      {
+        "original": "ζόφον",
+        "lemma": "ζόφος",
+        "strong": "2217",
+        "parsing": "N-ASM",
+        "translation": "densa oscuridad"
+      },
+      {
+        "original": "τετήρηκεν·",
+        "lemma": "τηρέω",
+        "strong": "5083",
+        "parsing": "V-RAI-3S",
+        "translation": "ha guardado"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:7\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὡς Σόδομα καὶ Γόμορρα καὶ αἱ περὶ αὐτὰς πόλεις, τὸν ὅμοιον τρόπον τούτοις ἐκπορνεύσασαι καὶ ἀπελθοῦσαι ὀπίσω σαρκὸς ἑτέρας, πρόκεινται δεῖγμα πυρὸς αἰωνίου δίκην ὑπέχουσαι.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "Tal como"
+      },
+      {
+        "original": "Σόδομα",
+        "lemma": "Σόδομα",
+        "strong": "4670",
+        "parsing": "N-NPN",
+        "translation": "Sodoma"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "Γόμορρα",
+        "lemma": "Γόμοῤῥα",
+        "strong": "1116",
+        "parsing": "N-NSF",
+        "translation": "Gomorra"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "αἱ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPF",
+        "translation": "las"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "alrededor de"
+      },
+      {
+        "original": "αὐτὰς",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-APF",
+        "translation": "ellas"
+      },
+      {
+        "original": "πόλεις,",
+        "lemma": "πόλις",
+        "strong": "4172",
+        "parsing": "N-NPF",
+        "translation": "ciudades"
+      },
+      {
+        "original": "τὸν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASM",
+        "translation": "a la"
+      },
+      {
+        "original": "ὅμοιον",
+        "lemma": "ὅμοιος",
+        "strong": "3664",
+        "parsing": "A-ASM",
+        "translation": "semejante"
+      },
+      {
+        "original": "τρόπον",
+        "lemma": "τρόπος",
+        "strong": "5158",
+        "parsing": "N-ASM",
+        "translation": "manera"
+      },
+      {
+        "original": "τούτοις",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-DPM",
+        "translation": "a estos"
+      },
+      {
+        "original": "ἐκπορνεύσασαι",
+        "lemma": "ἐκπορνεύω",
+        "strong": "1608",
+        "parsing": "V-AAP-NPF",
+        "translation": "habiendo cometido inmoralidad sexual con exceso"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἀπελθοῦσαι",
+        "lemma": "ἀπέρχομαι",
+        "strong": "565",
+        "parsing": "V-2AAP-NPF",
+        "translation": "habiendo venido desde"
+      },
+      {
+        "original": "ὀπίσω",
+        "lemma": "ὀπίσω",
+        "strong": "3694",
+        "parsing": "ADV",
+        "translation": "detrás de"
+      },
+      {
+        "original": "σαρκὸς",
+        "lemma": "σάρξ",
+        "strong": "4561",
+        "parsing": "N-GSF",
+        "translation": "carne"
+      },
+      {
+        "original": "ἑτέρας,",
+        "lemma": "ἕτερος",
+        "strong": "2087",
+        "parsing": "A-GSF",
+        "translation": "diferente (uso sexual)"
+      },
+      {
+        "original": "πρόκεινται",
+        "lemma": "πρόκειμαι",
+        "strong": "4295",
+        "parsing": "V-PNI-3P",
+        "translation": "están yaciendo delante de"
+      },
+      {
+        "original": "δεῖγμα",
+        "lemma": "δεῖγμα",
+        "strong": "1164",
+        "parsing": "N-ASN",
+        "translation": "a ejemplo"
+      },
+      {
+        "original": "πυρὸς",
+        "lemma": "πῦρ",
+        "strong": "4442",
+        "parsing": "N-GSN",
+        "translation": "de fuego"
+      },
+      {
+        "original": "αἰωνίου",
+        "lemma": "αἰώνιος",
+        "strong": "166",
+        "parsing": "A-GSN",
+        "translation": "eterno"
+      },
+      {
+        "original": "δίκην",
+        "lemma": "δίκη",
+        "strong": "1349",
+        "parsing": "N-ASF",
+        "translation": "a juicio adverso"
+      },
+      {
+        "original": "ὑπέχουσαι.",
+        "lemma": "ὑπέχω",
+        "strong": "5254",
+        "parsing": "V-PAP-NPF",
+        "translation": "teniendo bajo"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:8\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὁμοίως μέντοι καὶ οὗτοι ἐνυπνιαζόμενοι σάρκα μὲν μιαίνουσιν, κυριότητα δὲ ἀθετοῦσιν, δόξας δὲ βλασφημοῦσιν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὁμοίως",
+        "lemma": "ὁμοίως",
+        "strong": "3668",
+        "parsing": "ADV",
+        "translation": "Igualmente"
+      },
+      {
+        "original": "μέντοι",
+        "lemma": "μέντοι",
+        "strong": "3305",
+        "parsing": "CONJ",
+        "translation": "sin embargo"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "οὗτοι",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NPM",
+        "translation": "estos"
+      },
+      {
+        "original": "ἐνυπνιαζόμενοι",
+        "lemma": "ἐνυπνιάζομαι",
+        "strong": "1797",
+        "parsing": "V-PNP-NPM",
+        "translation": "soñando"
+      },
+      {
+        "original": "σάρκα",
+        "lemma": "σάρξ",
+        "strong": "4561",
+        "parsing": "N-ASF",
+        "translation": "a carne"
+      },
+      {
+        "original": "μὲν",
+        "lemma": "μέν",
+        "strong": "3303",
+        "parsing": "PRT",
+        "translation": "de hecho"
+      },
+      {
+        "original": "μιαίνουσιν,",
+        "lemma": "μιαίνω",
+        "strong": "3392",
+        "parsing": "V-PAI-3P",
+        "translation": "están contaminando"
+      },
+      {
+        "original": "κυριότητα",
+        "lemma": "κυριότης",
+        "strong": "2963",
+        "parsing": "N-ASF",
+        "translation": "a señorío"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ἀθετοῦσιν,",
+        "lemma": "ἀθετέω",
+        "strong": "114",
+        "parsing": "V-PAI-3P",
+        "translation": "están poniendo a un lado"
+      },
+      {
+        "original": "δόξας",
+        "lemma": "δόξα",
+        "strong": "1391",
+        "parsing": "N-APF",
+        "translation": "a esplendorosos"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "βλασφημοῦσιν.",
+        "lemma": "βλασφημέω",
+        "strong": "987",
+        "parsing": "V-PAI-3P",
+        "translation": "están insultando injuriosamente"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:9\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὁ δὲ Μιχαὴλ ὁ ἀρχάγγελος, ὅτε τῷ διαβόλῳ διακρινόμενος διελέγετο περὶ τοῦ Μωϋσέως σώματος, οὐκ ἐτόλμησεν κρίσιν ἐπενεγκεῖν βλασφημίας, ἀλλὰ εἶπεν, ἐπιτιμήσαι σοι κύριος.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὁ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSM",
+        "translation": "El"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "Μιχαὴλ",
+        "lemma": "Μιχαήλ",
+        "strong": "3413",
+        "parsing": "N-PRI",
+        "translation": "Miguel"
+      },
+      {
+        "original": "ὁ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSM",
+        "translation": "el"
+      },
+      {
+        "original": "ἀρχάγγελος,",
+        "lemma": "ἀρχάγγελος",
+        "strong": "743",
+        "parsing": "N-NSM",
+        "translation": "gobernante de mensajeros"
+      },
+      {
+        "original": "ὅτε",
+        "lemma": "ὅτε",
+        "strong": "3753",
+        "parsing": "ADV",
+        "translation": "cuando"
+      },
+      {
+        "original": "τῷ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSM",
+        "translation": "el"
+      },
+      {
+        "original": "διαβόλῳ",
+        "lemma": "διάβολος",
+        "strong": "1228",
+        "parsing": "A-DSM",
+        "translation": "Calumniador"
+      },
+      {
+        "original": "διακρινόμενος",
+        "lemma": "διακρίνω",
+        "strong": "1252",
+        "parsing": "V-PMP-NSM",
+        "translation": "estaba disputando"
+      },
+      {
+        "original": "διελέγετο",
+        "lemma": "διαλέγομαι",
+        "strong": "1256",
+        "parsing": "V-INI-3S",
+        "translation": "estaba diciendo en desacuerdo"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "acerca de"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "el"
+      },
+      {
+        "original": "Μωϋσέως",
+        "lemma": "Μωσεύς",
+        "strong": "3475",
+        "parsing": "N-GSM",
+        "translation": "de Moisés"
+      },
+      {
+        "original": "σώματος,",
+        "lemma": "σῶμα",
+        "strong": "4983",
+        "parsing": "N-GSN",
+        "translation": "cuerpo"
+      },
+      {
+        "original": "οὐκ",
+        "lemma": "οὐ",
+        "strong": "3756",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "ἐτόλμησεν",
+        "lemma": "τολμάω",
+        "strong": "5111",
+        "parsing": "V-AAI-3S",
+        "translation": "atrevió"
+      },
+      {
+        "original": "κρίσιν",
+        "lemma": "κρίσις",
+        "strong": "2920",
+        "parsing": "N-ASF",
+        "translation": "juicio"
+      },
+      {
+        "original": "ἐπενεγκεῖν",
+        "lemma": "ἐπιφέρω",
+        "strong": "2018",
+        "parsing": "V-2AAN",
+        "translation": "llevar sobre"
+      },
+      {
+        "original": "βλασφημίας,",
+        "lemma": "βλασφημία",
+        "strong": "988",
+        "parsing": "N-GSF",
+        "translation": "de insulto injurioso"
+      },
+      {
+        "original": "ἀλλὰ",
+        "lemma": "ἀλλά",
+        "strong": "235",
+        "parsing": "CONJ",
+        "translation": "sino"
+      },
+      {
+        "original": "εἶπεν,",
+        "lemma": "λέγω",
+        "strong": "3004",
+        "parsing": "V-2AAI-3S",
+        "translation": "dijo"
+      },
+      {
+        "original": "ἐπιτιμήσαι",
+        "lemma": "ἐπιτιμάω",
+        "strong": "2008",
+        "parsing": "V-AAO-3S",
+        "translation": "Dé reprensión"
+      },
+      {
+        "original": "σοι",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "κύριος.",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-NSM",
+        "translation": "Señor"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:10\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὗτοι δὲ ὅσα μὲν οὐκ οἴδασιν βλασφημοῦσιν, ὅσα δὲ φυσικῶς ὡς τὰ ἄλογα ζῷα ἐπίστανται, ἐν τούτοις φθείρονται.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὗτοι",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NPM",
+        "translation": "Estos"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ὅσα",
+        "lemma": "ὅσος",
+        "strong": "3745",
+        "parsing": "K-APN",
+        "translation": "tantos como"
+      },
+      {
+        "original": "μὲν",
+        "lemma": "μέν",
+        "strong": "3303",
+        "parsing": "PRT",
+        "translation": "de hecho"
+      },
+      {
+        "original": "οὐκ",
+        "lemma": "οὐ",
+        "strong": "3756",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "οἴδασιν",
+        "lemma": "εἴδω",
+        "strong": "1492",
+        "parsing": "V-RAI-3P",
+        "translation": "han sabido"
+      },
+      {
+        "original": "βλασφημοῦσιν,",
+        "lemma": "βλασφημέω",
+        "strong": "987",
+        "parsing": "V-PAI-3P",
+        "translation": "están insultando injuriosamente"
+      },
+      {
+        "original": "ὅσα",
+        "lemma": "ὅσος",
+        "strong": "3745",
+        "parsing": "K-APN",
+        "translation": "tantos como"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "φυσικῶς",
+        "lemma": "φυσικῶς",
+        "strong": "5447",
+        "parsing": "ADV",
+        "translation": "naturalmente"
+      },
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "como"
+      },
+      {
+        "original": "τὰ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPN",
+        "translation": "las"
+      },
+      {
+        "original": "ἄλογα",
+        "lemma": "ἄλογος",
+        "strong": "249",
+        "parsing": "A-NPN",
+        "translation": "irrazonables"
+      },
+      {
+        "original": "ζῷα",
+        "lemma": "ζῶον",
+        "strong": "2226",
+        "parsing": "N-NPN",
+        "translation": "criaturas vivientes"
+      },
+      {
+        "original": "ἐπίστανται,",
+        "lemma": "ἐπίσταμαι",
+        "strong": "1987",
+        "parsing": "V-PNI-3P",
+        "translation": "están sabiendo bien"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "τούτοις",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-DPN",
+        "translation": "estas (cosas)"
+      },
+      {
+        "original": "φθείρονται.",
+        "lemma": "φθείρω",
+        "strong": "5351",
+        "parsing": "V-PPI-3P",
+        "translation": "están siendo corrompidos destructoramente"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:11\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὐαὶ αὐτοῖς, ὅτι τῇ ὁδῷ τοῦ Κάϊν ἐπορεύθησαν, καὶ τῇ πλάνῃ τοῦ Βαλαὰμ μισθοῦ ἐξεχύθησαν, καὶ τῇ ἀντιλογίᾳ τοῦ Κόρε ἀπώλοντο.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὐαὶ",
+        "lemma": "οὐαί",
+        "strong": "3759",
+        "parsing": "INJ",
+        "translation": "Ay"
+      },
+      {
+        "original": "αὐτοῖς,",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-DPM",
+        "translation": "a ellos"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a el"
+      },
+      {
+        "original": "ὁδῷ",
+        "lemma": "ὁδός",
+        "strong": "3598",
+        "parsing": "N-DSF",
+        "translation": "camino"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "Κάϊν",
+        "lemma": "Κάϊν",
+        "strong": "2535",
+        "parsing": "N-PRI",
+        "translation": "Caín"
+      },
+      {
+        "original": "ἐπορεύθησαν,",
+        "lemma": "πορεύομαι",
+        "strong": "4198",
+        "parsing": "V-AOI-3P",
+        "translation": "fueron en camino"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a el"
+      },
+      {
+        "original": "πλάνῃ",
+        "lemma": "πλάνη",
+        "strong": "4106",
+        "parsing": "N-DSF",
+        "translation": "error"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "Βαλαὰμ",
+        "lemma": "Βαλαάμ",
+        "strong": "903",
+        "parsing": "N-PRI",
+        "translation": "Balaam"
+      },
+      {
+        "original": "μισθοῦ",
+        "lemma": "μισθός",
+        "strong": "3408",
+        "parsing": "N-GSM",
+        "translation": "de sueldo"
+      },
+      {
+        "original": "ἐξεχύθησαν,",
+        "lemma": "ἐκχέω",
+        "strong": "1632",
+        "parsing": "V-API-3P",
+        "translation": "fueron lanzados"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a la"
+      },
+      {
+        "original": "ἀντιλογίᾳ",
+        "lemma": "ἀντιλογία",
+        "strong": "485",
+        "parsing": "N-DSF",
+        "translation": "habla contraria"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "Κόρε",
+        "lemma": "Κορέ",
+        "strong": "2879",
+        "parsing": "N-PRI",
+        "translation": "Coré"
+      },
+      {
+        "original": "ἀπώλοντο.",
+        "lemma": "ἀπόλλυμι",
+        "strong": "622",
+        "parsing": "V-2AMI-3P",
+        "translation": "se destruyeron"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:12\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Οὗτοί εἰσιν οἱ ἐν ταῖς ἀγάπαις ὑμῶν σπιλάδες συνευωχούμενοι ἀφόβως, ἑαυτοὺς ποιμαίνοντες, νεφέλαι ἄνυδροι ὑπὸ ἀνέμων παραφερόμεναι, δένδρα φθινοπωρινὰ ἄκαρπα δὶς ἀποθανόντα ἐκριζωθέντα,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Οὗτοί",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NPM",
+        "translation": "Estos"
+      },
+      {
+        "original": "εἰσιν",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAI-3P",
+        "translation": "están siendo"
+      },
+      {
+        "original": "οἱ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPM",
+        "translation": "los"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ταῖς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DPF",
+        "translation": "las"
+      },
+      {
+        "original": "ἀγάπαις",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-DPF",
+        "translation": "(fiestas de) amor"
+      },
+      {
+        "original": "ὑμῶν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2GP",
+        "translation": "de ustedes"
+      },
+      {
+        "original": "σπιλάδες",
+        "lemma": "σπιλάς",
+        "strong": "4694",
+        "parsing": "N-NPF",
+        "translation": "rocas escondidas"
+      },
+      {
+        "original": "συνευωχούμενοι",
+        "lemma": "συνευωχέω",
+        "strong": "4910",
+        "parsing": "V-PNP-NPM",
+        "translation": "banqueteándose junto con"
+      },
+      {
+        "original": "ἀφόβως,",
+        "lemma": "ἀφόβως",
+        "strong": "870",
+        "parsing": "ADV",
+        "translation": "sin temor"
+      },
+      {
+        "original": "ἑαυτοὺς",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-3APM",
+        "translation": "a sí mismos"
+      },
+      {
+        "original": "ποιμαίνοντες,",
+        "lemma": "ποιμαίνω",
+        "strong": "4165",
+        "parsing": "V-PAP-NPM",
+        "translation": "pastoreando"
+      },
+      {
+        "original": "νεφέλαι",
+        "lemma": "νεφέλη",
+        "strong": "3507",
+        "parsing": "N-NPF",
+        "translation": "nubes"
+      },
+      {
+        "original": "ἄνυδροι",
+        "lemma": "ἄνυδρος",
+        "strong": "504",
+        "parsing": "A-NPF",
+        "translation": "sin agua"
+      },
+      {
+        "original": "ὑπὸ",
+        "lemma": "ὑπό",
+        "strong": "5259",
+        "parsing": "PREP",
+        "translation": "por"
+      },
+      {
+        "original": "ἀνέμων",
+        "lemma": "ἄνεμος",
+        "strong": "417",
+        "parsing": "N-GPM",
+        "translation": "vientos"
+      },
+      {
+        "original": "παραφερόμεναι,",
+        "lemma": "παραφέρω",
+        "strong": "3911",
+        "parsing": "V-PPP-NPF",
+        "translation": "siendo llevados al lado de"
+      },
+      {
+        "original": "δένδρα",
+        "lemma": "δένδρον",
+        "strong": "1186",
+        "parsing": "N-NPN",
+        "translation": "árboles"
+      },
+      {
+        "original": "φθινοπωρινὰ",
+        "lemma": "φθινοπωρινός",
+        "strong": "5352",
+        "parsing": "A-NPN",
+        "translation": "otoñales"
+      },
+      {
+        "original": "ἄκαρπα",
+        "lemma": "ἄκαρπος",
+        "strong": "175",
+        "parsing": "A-NPN",
+        "translation": "infructíferos"
+      },
+      {
+        "original": "δὶς",
+        "lemma": "δίς",
+        "strong": "1364",
+        "parsing": "ADV",
+        "translation": "dos veces"
+      },
+      {
+        "original": "ἀποθανόντα",
+        "lemma": "ἀποθνήσκω",
+        "strong": "599",
+        "parsing": "V-2AAP-NPN",
+        "translation": "habiendo muerto"
+      },
+      {
+        "original": "ἐκριζωθέντα,",
+        "lemma": "ἐκριζόω",
+        "strong": "1610",
+        "parsing": "V-APP-NPN",
+        "translation": "habiendo sido desarraigados"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:13\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "κύματα ἄγρια θαλάσσης ἐπαφρίζοντα τὰς ἑαυτῶν αἰσχύνας, ἀστέρες πλανῆται οἷς ὁ ζόφος τοῦ σκότους εἰς αἰῶνα τετήρηται.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "κύματα",
+        "lemma": "κῦμα",
+        "strong": "2949",
+        "parsing": "N-NPN",
+        "translation": "olas"
+      },
+      {
+        "original": "ἄγρια",
+        "lemma": "ἄγριος",
+        "strong": "66",
+        "parsing": "A-NPN",
+        "translation": "salvajes"
+      },
+      {
+        "original": "θαλάσσης",
+        "lemma": "θάλασσα",
+        "strong": "2281",
+        "parsing": "N-GSF",
+        "translation": "de mar"
+      },
+      {
+        "original": "ἐπαφρίζοντα",
+        "lemma": "ἐπαφρίζω",
+        "strong": "1890",
+        "parsing": "V-PAP-NPN",
+        "translation": "espumando sobre"
+      },
+      {
+        "original": "τὰς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APF",
+        "translation": "a las"
+      },
+      {
+        "original": "ἑαυτῶν",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-3GPN",
+        "translation": "de mismas"
+      },
+      {
+        "original": "αἰσχύνας,",
+        "lemma": "αἰσχύνη",
+        "strong": "152",
+        "parsing": "N-APF",
+        "translation": "cosas vergonzosas"
+      },
+      {
+        "original": "ἀστέρες",
+        "lemma": "ἀστήρ",
+        "strong": "792",
+        "parsing": "N-NPM",
+        "translation": "estrellas"
+      },
+      {
+        "original": "πλανῆται",
+        "lemma": "πλανήτης",
+        "strong": "4107",
+        "parsing": "N-NPM",
+        "translation": "errantes"
+      },
+      {
+        "original": "οἷς",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-DPM",
+        "translation": "a quienes"
+      },
+      {
+        "original": "ὁ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSM",
+        "translation": "la"
+      },
+      {
+        "original": "ζόφος",
+        "lemma": "ζόφος",
+        "strong": "2217",
+        "parsing": "N-NSM",
+        "translation": "densa oscuridad"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSN",
+        "translation": "de la"
+      },
+      {
+        "original": "σκότους",
+        "lemma": "σκότος",
+        "strong": "4655",
+        "parsing": "N-GSN",
+        "translation": "oscuridad"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "αἰῶνα",
+        "lemma": "αἰών",
+        "strong": "165",
+        "parsing": "N-ASM",
+        "translation": "edad"
+      },
+      {
+        "original": "τετήρηται.",
+        "lemma": "τηρέω",
+        "strong": "5083",
+        "parsing": "V-RPI-3S",
+        "translation": "ha sido guardada"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:14\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἐπροφήτευσεν δὲ καὶ τούτοις ἕβδομος ἀπὸ Ἀδὰμ Ἑνὼχ λέγων, ἰδοὺ ἦλθεν κύριος ἐν ἁγίαις μυριάσιν αὐτοῦ,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἐπροφήτευσεν",
+        "lemma": "προφητεύω",
+        "strong": "4395",
+        "parsing": "V-AAI-3S",
+        "translation": "Habló como vocero"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "τούτοις",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-DPM",
+        "translation": "a estos"
+      },
+      {
+        "original": "ἕβδομος",
+        "lemma": "ἕβδομος",
+        "strong": "1442",
+        "parsing": "A-NSM",
+        "translation": "séptimo"
+      },
+      {
+        "original": "ἀπὸ",
+        "lemma": "ἀπό",
+        "strong": "575",
+        "parsing": "PREP",
+        "translation": "desde"
+      },
+      {
+        "original": "Ἀδὰμ",
+        "lemma": "Ἀδάμ",
+        "strong": "76",
+        "parsing": "N-PRI",
+        "translation": "Adán"
+      },
+      {
+        "original": "Ἑνὼχ",
+        "lemma": "Ἐνώχ",
+        "strong": "1802",
+        "parsing": "N-PRI",
+        "translation": "Enoc"
+      },
+      {
+        "original": "λέγων,",
+        "lemma": "λέγω",
+        "strong": "3004",
+        "parsing": "V-PAP-NSM",
+        "translation": "diciendo"
+      },
+      {
+        "original": "ἰδοὺ",
+        "lemma": "ὁράω",
+        "strong": "3708",
+        "parsing": "V-2AMM-2S",
+        "translation": "Mira"
+      },
+      {
+        "original": "ἦλθεν",
+        "lemma": "ἔρχομαι",
+        "strong": "2064",
+        "parsing": "V-2AAI-3S",
+        "translation": "vino"
+      },
+      {
+        "original": "κύριος",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-NSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ἁγίαις",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-DPF",
+        "translation": "santos"
+      },
+      {
+        "original": "μυριάσιν",
+        "lemma": "μυριάς",
+        "strong": "3461",
+        "parsing": "N-DPF",
+        "translation": "a diez miles"
+      },
+      {
+        "original": "αὐτοῦ,",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GSM",
+        "translation": "de él"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:15\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ποιῆσαι κρίσιν κατὰ πάντων καὶ ἐλέγξαι πάντας τοὺς ἀσεβεῖς αὐτῶν περὶ πάντων τῶν ἔργων ἀσεβείας αὐτῶν ὧν ἠσέβησαν καὶ περὶ πάντων τῶν σκληρῶν λόγων ὧν ἐλάλησαν κατ’ αὐτοῦ ἁμαρτωλοὶ ἀσεβεῖς.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ποιῆσαι",
+        "lemma": "ποιέω",
+        "strong": "4160",
+        "parsing": "V-AAN",
+        "translation": "Hacer"
+      },
+      {
+        "original": "κρίσιν",
+        "lemma": "κρίσις",
+        "strong": "2920",
+        "parsing": "N-ASF",
+        "translation": "juicio"
+      },
+      {
+        "original": "κατὰ",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "contra"
+      },
+      {
+        "original": "πάντων",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-GPM",
+        "translation": "todos"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἐλέγξαι",
+        "lemma": "ἐλέγχω",
+        "strong": "1651",
+        "parsing": "V-AAN",
+        "translation": "poner al descubierto"
+      },
+      {
+        "original": "πάντας",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-APM",
+        "translation": "a todos"
+      },
+      {
+        "original": "τοὺς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APM",
+        "translation": "los"
+      },
+      {
+        "original": "ἀσεβεῖς",
+        "lemma": "ἀσεβής",
+        "strong": "765",
+        "parsing": "A-APM",
+        "translation": "irreverentes"
+      },
+      {
+        "original": "αὐτῶν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GPM",
+        "translation": "de ellos"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "acerca de"
+      },
+      {
+        "original": "πάντων",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-GPN",
+        "translation": "todas (cosas)"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPN",
+        "translation": "de las"
+      },
+      {
+        "original": "ἔργων",
+        "lemma": "ἔργον",
+        "strong": "2041",
+        "parsing": "N-GPN",
+        "translation": "obras"
+      },
+      {
+        "original": "ἀσεβείας",
+        "lemma": "ἀσέβεια",
+        "strong": "763",
+        "parsing": "N-GSF",
+        "translation": "de irreverencia"
+      },
+      {
+        "original": "αὐτῶν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GPM",
+        "translation": "de ellos"
+      },
+      {
+        "original": "ὧν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-GPN",
+        "translation": "de cuales"
+      },
+      {
+        "original": "ἠσέβησαν",
+        "lemma": "ἀσεβέω",
+        "strong": "764",
+        "parsing": "V-AAI-3P",
+        "translation": "hicieron irreverentemente"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "acerca de"
+      },
+      {
+        "original": "πάντων",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-GPN",
+        "translation": "todas (cosas)"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPN",
+        "translation": "de las"
+      },
+      {
+        "original": "σκληρῶν",
+        "lemma": "σκληρός",
+        "strong": "4642",
+        "parsing": "A-GPN",
+        "translation": "duras"
+      },
+      {
+        "original": "λόγων",
+        "lemma": "λόγος",
+        "strong": "3056",
+        "parsing": "N-GPM",
+        "translation": "palabras"
+      },
+      {
+        "original": "ὧν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-GPN",
+        "translation": "de cuales"
+      },
+      {
+        "original": "ἐλάλησαν",
+        "lemma": "λαλέω",
+        "strong": "2980",
+        "parsing": "V-AAI-3P",
+        "translation": "hablaron"
+      },
+      {
+        "original": "κατ’",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "contra"
+      },
+      {
+        "original": "αὐτοῦ",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GSM",
+        "translation": "él"
+      },
+      {
+        "original": "ἁμαρτωλοὶ",
+        "lemma": "ἁμαρτωλός",
+        "strong": "268",
+        "parsing": "A-NPM",
+        "translation": "pecadores"
+      },
+      {
+        "original": "ἀσεβεῖς.",
+        "lemma": "ἀσεβής",
+        "strong": "765",
+        "parsing": "A-NPM",
+        "translation": "irreverentes"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:16\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὗτοί εἰσιν γογγυσταί, μεμψίμοιροι, κατὰ τὰς ἐπιθυμίας αὐτῶν πορευόμενοι, καὶ τὸ στόμα αὐτῶν λαλεῖ ὑπέρογκα, θαυμάζοντες πρόσωπα ὠφελείας χάριν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὗτοί",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NPM",
+        "translation": "Estos"
+      },
+      {
+        "original": "εἰσιν",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAI-3P",
+        "translation": "están siendo"
+      },
+      {
+        "original": "γογγυσταί,",
+        "lemma": "γογγυστής",
+        "strong": "1113",
+        "parsing": "N-NPM",
+        "translation": "murmuradores"
+      },
+      {
+        "original": "μεμψίμοιροι,",
+        "lemma": "μεμψίμοιρος",
+        "strong": "3202",
+        "parsing": "A-NPM",
+        "translation": "quejumbrosos"
+      },
+      {
+        "original": "κατὰ",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "según"
+      },
+      {
+        "original": "τὰς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APF",
+        "translation": "a los"
+      },
+      {
+        "original": "ἐπιθυμίας",
+        "lemma": "ἐπιθυμία",
+        "strong": "1939",
+        "parsing": "N-APF",
+        "translation": "deseos"
+      },
+      {
+        "original": "αὐτῶν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GPM",
+        "translation": "de ellos"
+      },
+      {
+        "original": "πορευόμενοι,",
+        "lemma": "πορεύομαι",
+        "strong": "4198",
+        "parsing": "V-PNP-NPM",
+        "translation": "yendo en camino"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSN",
+        "translation": "la"
+      },
+      {
+        "original": "στόμα",
+        "lemma": "στόμα",
+        "strong": "4750",
+        "parsing": "N-NSN",
+        "translation": "boca"
+      },
+      {
+        "original": "αὐτῶν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GPM",
+        "translation": "de ellos"
+      },
+      {
+        "original": "λαλεῖ",
+        "lemma": "λαλέω",
+        "strong": "2980",
+        "parsing": "V-PAI-3S",
+        "translation": "está hablando"
+      },
+      {
+        "original": "ὑπέρογκα,",
+        "lemma": "ὑπέρογκος",
+        "strong": "5246",
+        "parsing": "A-APN",
+        "translation": "hinchadas (expresiones)"
+      },
+      {
+        "original": "θαυμάζοντες",
+        "lemma": "θαυμάζω",
+        "strong": "2296",
+        "parsing": "V-PAP-NPM",
+        "translation": "maravillando"
+      },
+      {
+        "original": "πρόσωπα",
+        "lemma": "πρόσωπον",
+        "strong": "4383",
+        "parsing": "N-APN",
+        "translation": "rostros"
+      },
+      {
+        "original": "ὠφελείας",
+        "lemma": "ὠφέλεια",
+        "strong": "5622",
+        "parsing": "N-GSF",
+        "translation": "de beneficio"
+      },
+      {
+        "original": "χάριν.",
+        "lemma": "χάριν",
+        "strong": "5484",
+        "parsing": "ADV",
+        "translation": "por esta causa"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:17\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ὑμεῖς δέ, ἀγαπητοί, μνήσθητε τῶν ῥημάτων τῶν προειρημένων ὑπὸ τῶν ἀποστόλων τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ὑμεῖς",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2NP",
+        "translation": "Ustedes"
+      },
+      {
+        "original": "δέ,",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ἀγαπητοί,",
+        "lemma": "ἀγαπητός",
+        "strong": "27",
+        "parsing": "A-VPM",
+        "translation": "amados"
+      },
+      {
+        "original": "μνήσθητε",
+        "lemma": "μιμνήσκω",
+        "strong": "3403",
+        "parsing": "V-APM-2P",
+        "translation": "sean recordados"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPN",
+        "translation": "de las"
+      },
+      {
+        "original": "ῥημάτων",
+        "lemma": "ῥῆμα",
+        "strong": "4487",
+        "parsing": "N-GPN",
+        "translation": "declaraciones"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPN",
+        "translation": "las"
+      },
+      {
+        "original": "προειρημένων",
+        "lemma": "προλέγω",
+        "strong": "4302",
+        "parsing": "V-RPP-GPN",
+        "translation": "han sido dichas de antemano"
+      },
+      {
+        "original": "ὑπὸ",
+        "lemma": "ὑπό",
+        "strong": "5259",
+        "parsing": "PREP",
+        "translation": "por"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPM",
+        "translation": "los"
+      },
+      {
+        "original": "ἀποστόλων",
+        "lemma": "ἀπόστολος",
+        "strong": "652",
+        "parsing": "N-GPM",
+        "translation": "emisarios"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "κυρίου",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-GSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστοῦ,",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:18\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὅτι ἔλεγον ὑμῖν· ἐπ’ ἐσχάτου τοῦ χρόνου ἔσονται ἐμπαῖκται κατὰ τὰς ἑαυτῶν ἐπιθυμίας πορευόμενοι τῶν ἀσεβειῶν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "que"
+      },
+      {
+        "original": "ἔλεγον",
+        "lemma": "λέγω",
+        "strong": "3004",
+        "parsing": "V-IAI-3P",
+        "translation": "estaban diciendo"
+      },
+      {
+        "original": "ὑμῖν·",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "ἐπ’",
+        "lemma": "ἐπί",
+        "strong": "1909",
+        "parsing": "PREP",
+        "translation": "Sobre"
+      },
+      {
+        "original": "ἐσχάτου",
+        "lemma": "ἔσχατος",
+        "strong": "2078",
+        "parsing": "A-GSM-S",
+        "translation": "último"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "χρόνου",
+        "lemma": "χρόνος",
+        "strong": "5550",
+        "parsing": "N-GSM",
+        "translation": "tiempo"
+      },
+      {
+        "original": "ἔσονται",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-FDI-3P",
+        "translation": "serán"
+      },
+      {
+        "original": "ἐμπαῖκται",
+        "lemma": "ἐμπαίκτης",
+        "strong": "1703",
+        "parsing": "N-NPM",
+        "translation": "burlones"
+      },
+      {
+        "original": "κατὰ",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "según"
+      },
+      {
+        "original": "τὰς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APF",
+        "translation": "a los"
+      },
+      {
+        "original": "ἑαυτῶν",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-3GPM",
+        "translation": "de ellos mismos"
+      },
+      {
+        "original": "ἐπιθυμίας",
+        "lemma": "ἐπιθυμία",
+        "strong": "1939",
+        "parsing": "N-APF",
+        "translation": "deseos"
+      },
+      {
+        "original": "πορευόμενοι",
+        "lemma": "πορεύομαι",
+        "strong": "4198",
+        "parsing": "V-PNP-NPM",
+        "translation": "yendo en camino"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPF",
+        "translation": "de las"
+      },
+      {
+        "original": "ἀσεβειῶν.",
+        "lemma": "ἀσέβεια",
+        "strong": "763",
+        "parsing": "N-GPF",
+        "translation": "cosas irreverentes"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:19\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὗτοί εἰσιν οἱ ἀποδιορίζοντες, ψυχικοί, πνεῦμα μὴ ἔχοντες.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὗτοί",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NPM",
+        "translation": "Estos"
+      },
+      {
+        "original": "εἰσιν",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAI-3P",
+        "translation": "están siendo"
+      },
+      {
+        "original": "οἱ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPM",
+        "translation": "los"
+      },
+      {
+        "original": "ἀποδιορίζοντες,",
+        "lemma": "ἀποδιορίζω",
+        "strong": "592",
+        "parsing": "V-PAP-NPM",
+        "translation": "causando divisiones"
+      },
+      {
+        "original": "ψυχικοί,",
+        "lemma": "ψυχικός",
+        "strong": "5591",
+        "parsing": "A-NPM",
+        "translation": "perteneciente a (deseos del) alma"
+      },
+      {
+        "original": "πνεῦμα",
+        "lemma": "πνεῦμα",
+        "strong": "4151",
+        "parsing": "N-ASN",
+        "translation": "espíritu"
+      },
+      {
+        "original": "μὴ",
+        "lemma": "μή",
+        "strong": "3361",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "ἔχοντες.",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-PAP-NPM",
+        "translation": "teniendo"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:20\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν πνεύματι ἁγίῳ προσευχόμενοι,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὑμεῖς",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2NP",
+        "translation": "Ustedes"
+      },
+      {
+        "original": "δέ,",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ἀγαπητοί,",
+        "lemma": "ἀγαπητός",
+        "strong": "27",
+        "parsing": "A-VPM",
+        "translation": "amados"
+      },
+      {
+        "original": "ἐποικοδομοῦντες",
+        "lemma": "ἐποικοδομέω",
+        "strong": "2026",
+        "parsing": "V-PAP-NPM",
+        "translation": "edificando sobre"
+      },
+      {
+        "original": "ἑαυτοὺς",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-2APM",
+        "translation": "a ustedes mismos"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a la"
+      },
+      {
+        "original": "ἁγιωτάτῃ",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-DSF-S",
+        "translation": "santísima"
+      },
+      {
+        "original": "ὑμῶν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2GP",
+        "translation": "de ustedes"
+      },
+      {
+        "original": "πίστει,",
+        "lemma": "πίστις",
+        "strong": "4102",
+        "parsing": "N-DSF",
+        "translation": "fe"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "πνεύματι",
+        "lemma": "πνεῦμα",
+        "strong": "4151",
+        "parsing": "N-DSN",
+        "translation": "espíritu"
+      },
+      {
+        "original": "ἁγίῳ",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-DSN",
+        "translation": "santo"
+      },
+      {
+        "original": "προσευχόμενοι,",
+        "lemma": "προσεύχομαι",
+        "strong": "4336",
+        "parsing": "V-PNP-NPM",
+        "translation": "orando"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:21\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἑαυτοὺς",
+        "lemma": "ἑαυτοῦ",
+        "strong": "1438",
+        "parsing": "F-2APM",
+        "translation": "A ustedes mismos"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ἀγάπῃ",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-DSF",
+        "translation": "amor"
+      },
+      {
+        "original": "θεοῦ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-GSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "τηρήσατε,",
+        "lemma": "τηρέω",
+        "strong": "5083",
+        "parsing": "V-AAM-2P",
+        "translation": "guarden(se)"
+      },
+      {
+        "original": "προσδεχόμενοι",
+        "lemma": "προσδέχομαι",
+        "strong": "4327",
+        "parsing": "V-PNP-NPM",
+        "translation": "esperando dispuestos favorablemente"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASN",
+        "translation": "la"
+      },
+      {
+        "original": "ἔλεος",
+        "lemma": "ἔλεος",
+        "strong": "1656",
+        "parsing": "N-ASN",
+        "translation": "misericordia"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "κυρίου",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-GSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "ζωὴν",
+        "lemma": "ζωή",
+        "strong": "2222",
+        "parsing": "N-ASF",
+        "translation": "vida"
+      },
+      {
+        "original": "αἰώνιον.",
+        "lemma": "αἰώνιος",
+        "strong": "166",
+        "parsing": "A-ASF",
+        "translation": "eterna"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:22\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "καὶ οὓς μὲν ἐλέγχετε διακρινομένους,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "Y"
+      },
+      {
+        "original": "οὓς",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-APM",
+        "translation": "a quienes"
+      },
+      {
+        "original": "μὲν",
+        "lemma": "μέν",
+        "strong": "3303",
+        "parsing": "PRT",
+        "translation": "de hecho"
+      },
+      {
+        "original": "ἐλέγχετε",
+        "lemma": "ἐλέγχω",
+        "strong": "1651",
+        "parsing": "V-PAM-2P",
+        "translation": "estén censurando"
+      },
+      {
+        "original": "διακρινομένους,",
+        "lemma": "διακρίνω",
+        "strong": "1252",
+        "parsing": "V-PMP-APM",
+        "translation": "a dudando"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:23\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὓς δὲ σῴζετε ἐκ πυρὸς ἁρπάζοντες, οὓς δὲ ἐλεᾶτε ἐν φόβῳ, μισοῦντες καὶ τὸν ἀπὸ τῆς σαρκὸς ἐσπιλωμένον χιτῶνα.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὓς",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-APM",
+        "translation": "A quienes"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "σῴζετε",
+        "lemma": "σώζω",
+        "strong": "4982",
+        "parsing": "V-PAM-2P",
+        "translation": "estén salvando"
+      },
+      {
+        "original": "ἐκ",
+        "lemma": "ἐκ",
+        "strong": "1537",
+        "parsing": "PREP",
+        "translation": "procedente de"
+      },
+      {
+        "original": "πυρὸς",
+        "lemma": "πῦρ",
+        "strong": "4442",
+        "parsing": "N-GSN",
+        "translation": "fuego"
+      },
+      {
+        "original": "ἁρπάζοντες,",
+        "lemma": "ἁρπάζω",
+        "strong": "726",
+        "parsing": "V-PAP-NPM",
+        "translation": "arrebatando enérgicamente"
+      },
+      {
+        "original": "οὓς",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-APM",
+        "translation": "a quienes"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "ἐλεᾶτε",
+        "lemma": "ἐλεέω",
+        "strong": "1653",
+        "parsing": "V-PAM-2P",
+        "translation": "estén mostrando misericordia"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "φόβῳ,",
+        "lemma": "φόβος",
+        "strong": "5401",
+        "parsing": "N-DSM",
+        "translation": "temor"
+      },
+      {
+        "original": "μισοῦντες",
+        "lemma": "μισέω",
+        "strong": "3404",
+        "parsing": "V-PAP-NPM",
+        "translation": "odiando"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "τὸν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASM",
+        "translation": "a la"
+      },
+      {
+        "original": "ἀπὸ",
+        "lemma": "ἀπό",
+        "strong": "575",
+        "parsing": "PREP",
+        "translation": "desde"
+      },
+      {
+        "original": "τῆς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSF",
+        "translation": "la"
+      },
+      {
+        "original": "σαρκὸς",
+        "lemma": "σάρξ",
+        "strong": "4561",
+        "parsing": "N-GSF",
+        "translation": "carne"
+      },
+      {
+        "original": "ἐσπιλωμένον",
+        "lemma": "σπιλόω",
+        "strong": "4695",
+        "parsing": "V-RPP-ASM",
+        "translation": "ha sido manchada"
+      },
+      {
+        "original": "χιτῶνα.",
+        "lemma": "χιτών",
+        "strong": "5509",
+        "parsing": "N-ASM",
+        "translation": "prenda de vestir interior"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:24\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Τῷ δὲ δυναμένῳ φυλάξαι ὑμᾶς ἀπταίστους καὶ στῆσαι κατενώπιον τῆς δόξης αὐτοῦ ἀμώμους ἐν ἀγαλλιάσει,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Τῷ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSM",
+        "translation": "A el"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "δυναμένῳ",
+        "lemma": "δύναμαι",
+        "strong": "1410",
+        "parsing": "V-PNP-DSM",
+        "translation": "siendo capaz"
+      },
+      {
+        "original": "φυλάξαι",
+        "lemma": "φυλάσσω",
+        "strong": "5442",
+        "parsing": "V-AAN",
+        "translation": "guardar"
+      },
+      {
+        "original": "ὑμᾶς",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2AP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "ἀπταίστους",
+        "lemma": "ἄπταιστος",
+        "strong": "679",
+        "parsing": "A-APM",
+        "translation": "sin dar traspié"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "στῆσαι",
+        "lemma": "ἵστημι",
+        "strong": "2476",
+        "parsing": "V-AAN",
+        "translation": "hacer poner de pie"
+      },
+      {
+        "original": "κατενώπιον",
+        "lemma": "κατενώπιον",
+        "strong": "2714",
+        "parsing": "ADV",
+        "translation": "hacia abajo a vista de"
+      },
+      {
+        "original": "τῆς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSF",
+        "translation": "el"
+      },
+      {
+        "original": "δόξης",
+        "lemma": "δόξα",
+        "strong": "1391",
+        "parsing": "N-GSF",
+        "translation": "esplendor"
+      },
+      {
+        "original": "αὐτοῦ",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-GSM",
+        "translation": "de él"
+      },
+      {
+        "original": "ἀμώμους",
+        "lemma": "ἄμωμος",
+        "strong": "299",
+        "parsing": "A-APM",
+        "translation": "sin mancha"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ἀγαλλιάσει,",
+        "lemma": "ἀγαλλίασις",
+        "strong": "20",
+        "parsing": "N-DSF",
+        "translation": "alegría"
+      }
+    ]
+  },
+  {
+    "referencia": "Judas 1:25\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "μόνῳ θεῷ σωτῆρι ἡμῶν διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν δόξα μεγαλωσύνη κράτος καὶ ἐξουσία πρὸ παντὸς τοῦ αἰῶνος καὶ νῦν καὶ εἰς πάντας τοὺς αἰῶνας· ἀμήν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "μόνῳ",
+        "lemma": "μόνος",
+        "strong": "3441",
+        "parsing": "A-DSM",
+        "translation": "A solo"
+      },
+      {
+        "original": "θεῷ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-DSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "σωτῆρι",
+        "lemma": "σωτήρ",
+        "strong": "4990",
+        "parsing": "N-DSM",
+        "translation": "libertador"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "διὰ",
+        "lemma": "διά",
+        "strong": "1223",
+        "parsing": "PREP",
+        "translation": "a través"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "de Jesús"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "el"
+      },
+      {
+        "original": "κυρίου",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-GSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "δόξα",
+        "lemma": "δόξα",
+        "strong": "1391",
+        "parsing": "N-NSF",
+        "translation": "esplendor"
+      },
+      {
+        "original": "μεγαλωσύνη",
+        "lemma": "μεγαλωσύνη",
+        "strong": "3172",
+        "parsing": "N-NSF",
+        "translation": "majestad"
+      },
+      {
+        "original": "κράτος",
+        "lemma": "κράτος",
+        "strong": "2904",
+        "parsing": "N-NSN",
+        "translation": "poderío"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἐξουσία",
+        "lemma": "ἐξουσία",
+        "strong": "1849",
+        "parsing": "N-NSF",
+        "translation": "autoridad"
+      },
+      {
+        "original": "πρὸ",
+        "lemma": "πρό",
+        "strong": "4253",
+        "parsing": "PREP",
+        "translation": "antes"
+      },
+      {
+        "original": "παντὸς",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-GSM",
+        "translation": "de toda"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "la"
+      },
+      {
+        "original": "αἰῶνος",
+        "lemma": "αἰών",
+        "strong": "165",
+        "parsing": "N-GSM",
+        "translation": "edad"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "νῦν",
+        "lemma": "νῦν",
+        "strong": "3568",
+        "parsing": "ADV",
+        "translation": "ahora"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "πάντας",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-APM",
+        "translation": "a todas"
+      },
+      {
+        "original": "τοὺς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APM",
+        "translation": "las"
+      },
+      {
+        "original": "αἰῶνας·",
+        "lemma": "αἰών",
+        "strong": "165",
+        "parsing": "N-APM",
+        "translation": "edades"
+      },
+      {
+        "original": "ἀμήν.",
+        "lemma": "ἀμήν",
+        "strong": "281",
+        "parsing": "HEB",
+        "translation": "amén"
+      }
+    ]
+  }
+]
