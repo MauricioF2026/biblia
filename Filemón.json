@@ -1,0 +1,2554 @@
+[
+  {
+    "referencia": "Filemón 1:1\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Παῦλος",
+        "lemma": "Παῦλος",
+        "strong": "3972",
+        "parsing": "N-NSM",
+        "translation": "Paulo"
+      },
+      {
+        "original": "δέσμιος",
+        "lemma": "δέσμιος",
+        "strong": "1198",
+        "parsing": "N-NSM",
+        "translation": "atado"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "de Cristo"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "Τιμόθεος",
+        "lemma": "Τιμόθεος",
+        "strong": "5095",
+        "parsing": "N-NSM",
+        "translation": "Timoteo"
+      },
+      {
+        "original": "ὁ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSM",
+        "translation": "el"
+      },
+      {
+        "original": "ἀδελφὸς",
+        "lemma": "ἀδελφός",
+        "strong": "80",
+        "parsing": "N-NSM",
+        "translation": "hermano"
+      },
+      {
+        "original": "Φιλήμονι",
+        "lemma": "Φιλήμων",
+        "strong": "5371",
+        "parsing": "N-DSM",
+        "translation": "a Filemón"
+      },
+      {
+        "original": "τῷ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSM",
+        "translation": "a el"
+      },
+      {
+        "original": "ἀγαπητῷ",
+        "lemma": "ἀγαπητός",
+        "strong": "27",
+        "parsing": "A-DSM",
+        "translation": "amado"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "συνεργῷ",
+        "lemma": "συνεργός",
+        "strong": "4904",
+        "parsing": "A-DSM",
+        "translation": "colaborador"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:2\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "Ἀπφίᾳ",
+        "lemma": "Ἀπφία",
+        "strong": "682",
+        "parsing": "N-DSF",
+        "translation": "a Apfia"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "la"
+      },
+      {
+        "original": "ἀδελφῇ",
+        "lemma": "ἀδελφή",
+        "strong": "79",
+        "parsing": "N-DSF",
+        "translation": "hermana"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "Ἀρχίππῳ",
+        "lemma": "Ἄρχιππος",
+        "strong": "751",
+        "parsing": "N-DSM",
+        "translation": "a Arquipo"
+      },
+      {
+        "original": "τῷ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSM",
+        "translation": "a el"
+      },
+      {
+        "original": "συστρατιώτῃ",
+        "lemma": "συστρατιώτης",
+        "strong": "4961",
+        "parsing": "N-DSM",
+        "translation": "compañero de servicio militar"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a la"
+      },
+      {
+        "original": "κατ’",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "según"
+      },
+      {
+        "original": "οἶκόν",
+        "lemma": "οἶκος",
+        "strong": "3624",
+        "parsing": "N-ASM",
+        "translation": "casa"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ἐκκλησίᾳ·",
+        "lemma": "ἐκκλησία",
+        "strong": "1577",
+        "parsing": "N-DSF",
+        "translation": "asamblea"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:3\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "χάρις",
+        "lemma": "χάρις",
+        "strong": "5485",
+        "parsing": "N-NSF",
+        "translation": "Bondad inmerecida"
+      },
+      {
+        "original": "ὑμῖν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "εἰρήνη",
+        "lemma": "εἰρήνη",
+        "strong": "1515",
+        "parsing": "N-NSF",
+        "translation": "paz"
+      },
+      {
+        "original": "ἀπὸ",
+        "lemma": "ἀπό",
+        "strong": "575",
+        "parsing": "PREP",
+        "translation": "desde"
+      },
+      {
+        "original": "θεοῦ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-GSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "πατρὸς",
+        "lemma": "πατήρ",
+        "strong": "3962",
+        "parsing": "N-GSM",
+        "translation": "Padre"
+      },
+      {
+        "original": "ἡμῶν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1GP",
+        "translation": "de nosotros"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "κυρίου",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-GSM",
+        "translation": "de Señor"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστοῦ.",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:4\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Εὐχαριστῶ τῷ θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Εὐχαριστῶ",
+        "lemma": "εὐχαριστέω",
+        "strong": "2168",
+        "parsing": "V-PAI-1S",
+        "translation": "Estoy dando gracias"
+      },
+      {
+        "original": "τῷ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSM",
+        "translation": "a el"
+      },
+      {
+        "original": "θεῷ",
+        "lemma": "θεός",
+        "strong": "2316",
+        "parsing": "N-DSM",
+        "translation": "Dios"
+      },
+      {
+        "original": "μου",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      },
+      {
+        "original": "πάντοτε",
+        "lemma": "πάντοτε",
+        "strong": "3842",
+        "parsing": "ADV",
+        "translation": "siempre"
+      },
+      {
+        "original": "μνείαν",
+        "lemma": "μνεία",
+        "strong": "3417",
+        "parsing": "N-ASF",
+        "translation": "mención"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ποιούμενος",
+        "lemma": "ποιέω",
+        "strong": "4160",
+        "parsing": "V-PMP-NSM",
+        "translation": "haciéndose"
+      },
+      {
+        "original": "ἐπὶ",
+        "lemma": "ἐπί",
+        "strong": "1909",
+        "parsing": "PREP",
+        "translation": "sobre"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPF",
+        "translation": "de las"
+      },
+      {
+        "original": "προσευχῶν",
+        "lemma": "προσευχή",
+        "strong": "4335",
+        "parsing": "N-GPF",
+        "translation": "oraciones"
+      },
+      {
+        "original": "μου,",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:5\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἀκούων",
+        "lemma": "ἀκούω",
+        "strong": "191",
+        "parsing": "V-PAP-NSM",
+        "translation": "oyendo"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "τὴν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASF",
+        "translation": "el"
+      },
+      {
+        "original": "ἀγάπην",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-ASF",
+        "translation": "amor"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "τὴν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASF",
+        "translation": "la"
+      },
+      {
+        "original": "πίστιν",
+        "lemma": "πίστις",
+        "strong": "4102",
+        "parsing": "N-ASF",
+        "translation": "fe"
+      },
+      {
+        "original": "ἣν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-ASF",
+        "translation": "cual"
+      },
+      {
+        "original": "ἔχεις",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-PAI-2S",
+        "translation": "estás teniendo"
+      },
+      {
+        "original": "πρὸς",
+        "lemma": "πρός",
+        "strong": "4314",
+        "parsing": "PREP",
+        "translation": "hacia"
+      },
+      {
+        "original": "τὸν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASM",
+        "translation": "a el"
+      },
+      {
+        "original": "κύριον",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-ASM",
+        "translation": "Señor"
+      },
+      {
+        "original": "Ἰησοῦν",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-ASM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "πάντας",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-APM",
+        "translation": "a todos"
+      },
+      {
+        "original": "τοὺς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APM",
+        "translation": "los"
+      },
+      {
+        "original": "ἁγίους,",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-APM",
+        "translation": "santos"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:6\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν·",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὅπως",
+        "lemma": "ὅπως",
+        "strong": "3704",
+        "parsing": "ADV",
+        "translation": "para que"
+      },
+      {
+        "original": "ἡ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSF",
+        "translation": "la"
+      },
+      {
+        "original": "κοινωνία",
+        "lemma": "κοινωνία",
+        "strong": "2842",
+        "parsing": "N-NSF",
+        "translation": "participación unida"
+      },
+      {
+        "original": "τῆς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSF",
+        "translation": "de la"
+      },
+      {
+        "original": "πίστεώς",
+        "lemma": "πίστις",
+        "strong": "4102",
+        "parsing": "N-GSF",
+        "translation": "fe"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ἐνεργὴς",
+        "lemma": "ἐνεργής",
+        "strong": "1756",
+        "parsing": "A-NSF",
+        "translation": "actividad dentro"
+      },
+      {
+        "original": "γένηται",
+        "lemma": "γίνομαι",
+        "strong": "1096",
+        "parsing": "V-2ADS-3S",
+        "translation": "llegue a ser"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ἐπιγνώσει",
+        "lemma": "ἐπίγνωσις",
+        "strong": "1922",
+        "parsing": "N-DSF",
+        "translation": "conocimiento preciso"
+      },
+      {
+        "original": "παντὸς",
+        "lemma": "πᾶς",
+        "strong": "3956",
+        "parsing": "A-GSN",
+        "translation": "de todo"
+      },
+      {
+        "original": "ἀγαθοῦ",
+        "lemma": "ἀγαθός",
+        "strong": "18",
+        "parsing": "A-GSN",
+        "translation": "bueno"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSN",
+        "translation": "de lo"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "ἡμῖν",
+        "lemma": "ἡμεῖς",
+        "strong": "2249",
+        "parsing": "P-1DP",
+        "translation": "nosotros"
+      },
+      {
+        "original": "εἰς",
+        "lemma": "εἰς",
+        "strong": "1519",
+        "parsing": "PREP",
+        "translation": "hacia dentro"
+      },
+      {
+        "original": "Χριστόν·",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-ASM",
+        "translation": "Cristo"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:7\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "χαρὰν",
+        "lemma": "χαρά",
+        "strong": "5479",
+        "parsing": "N-ASF",
+        "translation": "regocijo"
+      },
+      {
+        "original": "γὰρ",
+        "lemma": "γάρ",
+        "strong": "1063",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "πολλὴν",
+        "lemma": "πολύς",
+        "strong": "4183",
+        "parsing": "A-ASF",
+        "translation": "mucho"
+      },
+      {
+        "original": "ἔσχον",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-2AAI-1S",
+        "translation": "tuve"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "παράκλησιν",
+        "lemma": "παράκλησις",
+        "strong": "3874",
+        "parsing": "N-ASF",
+        "translation": "consolación"
+      },
+      {
+        "original": "ἐπὶ",
+        "lemma": "ἐπί",
+        "strong": "1909",
+        "parsing": "PREP",
+        "translation": "sobre"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "el"
+      },
+      {
+        "original": "ἀγάπῃ",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-DSF",
+        "translation": "amor"
+      },
+      {
+        "original": "σου,",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "τὰ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPN",
+        "translation": "los"
+      },
+      {
+        "original": "σπλάγχνα",
+        "lemma": "σπλάγχνον",
+        "strong": "4698",
+        "parsing": "N-NPN",
+        "translation": "tiernos cariños"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPM",
+        "translation": "de los"
+      },
+      {
+        "original": "ἁγίων",
+        "lemma": "ἅγιος",
+        "strong": "40",
+        "parsing": "A-GPM",
+        "translation": "santos"
+      },
+      {
+        "original": "ἀναπέπαυται",
+        "lemma": "ἀναπαύω",
+        "strong": "373",
+        "parsing": "V-RPI-3S",
+        "translation": "ha sido descansado"
+      },
+      {
+        "original": "διὰ",
+        "lemma": "διά",
+        "strong": "1223",
+        "parsing": "PREP",
+        "translation": "a través"
+      },
+      {
+        "original": "σοῦ,",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ἀδελφέ.",
+        "lemma": "ἀδελφός",
+        "strong": "80",
+        "parsing": "N-VSM",
+        "translation": "hermano"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:8\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Διό,",
+        "lemma": "διό",
+        "strong": "1352",
+        "parsing": "CONJ",
+        "translation": "Por cual"
+      },
+      {
+        "original": "πολλὴν",
+        "lemma": "πολύς",
+        "strong": "4183",
+        "parsing": "A-ASF",
+        "translation": "mucha"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "Χριστῷ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-DSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "παρρησίαν",
+        "lemma": "παῤῥησία",
+        "strong": "3954",
+        "parsing": "N-ASF",
+        "translation": "franqueza"
+      },
+      {
+        "original": "ἔχων",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-PAP-NSM",
+        "translation": "teniendo"
+      },
+      {
+        "original": "ἐπιτάσσειν",
+        "lemma": "ἐπιτάσσω",
+        "strong": "2004",
+        "parsing": "V-PAN",
+        "translation": "estar dando orden"
+      },
+      {
+        "original": "σοι",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASN",
+        "translation": "a lo"
+      },
+      {
+        "original": "ἀνῆκον,",
+        "lemma": "ἀνήκω",
+        "strong": "433",
+        "parsing": "V-PAP-ASN",
+        "translation": "siendo apropiado"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:9\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης, νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "διὰ",
+        "lemma": "διά",
+        "strong": "1223",
+        "parsing": "PREP",
+        "translation": "A través"
+      },
+      {
+        "original": "τὴν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASF",
+        "translation": "el"
+      },
+      {
+        "original": "ἀγάπην",
+        "lemma": "ἀγάπη",
+        "strong": "26",
+        "parsing": "N-ASF",
+        "translation": "amor"
+      },
+      {
+        "original": "μᾶλλον",
+        "lemma": "μᾶλλον",
+        "strong": "3123",
+        "parsing": "ADV",
+        "translation": "más bien"
+      },
+      {
+        "original": "παρακαλῶ,",
+        "lemma": "παρακαλέω",
+        "strong": "3870",
+        "parsing": "V-PAI-1S",
+        "translation": "suplico"
+      },
+      {
+        "original": "τοιοῦτος",
+        "lemma": "τοιοῦτος",
+        "strong": "5108",
+        "parsing": "D-NSM",
+        "translation": "tal"
+      },
+      {
+        "original": "ὢν",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAP-NSM",
+        "translation": "siendo"
+      },
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "como"
+      },
+      {
+        "original": "Παῦλος",
+        "lemma": "Παῦλος",
+        "strong": "3972",
+        "parsing": "N-NSM",
+        "translation": "Paulo"
+      },
+      {
+        "original": "πρεσβύτης,",
+        "lemma": "πρεσβύτης",
+        "strong": "4246",
+        "parsing": "N-NSM",
+        "translation": "viejo"
+      },
+      {
+        "original": "νυνὶ",
+        "lemma": "νυνί",
+        "strong": "3570",
+        "parsing": "ADV",
+        "translation": "ahora"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "δέσμιος",
+        "lemma": "δέσμιος",
+        "strong": "1198",
+        "parsing": "N-NSM",
+        "translation": "atado"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "de Cristo"
+      },
+      {
+        "original": "Ἰησοῦ,",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús --"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:10\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς δεσμοῖς, Ὀνήσιμον,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "παρακαλῶ",
+        "lemma": "παρακαλέω",
+        "strong": "3870",
+        "parsing": "V-PAI-1S",
+        "translation": "Estoy suplicando"
+      },
+      {
+        "original": "σε",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2AS",
+        "translation": "a ti"
+      },
+      {
+        "original": "περὶ",
+        "lemma": "περί",
+        "strong": "4012",
+        "parsing": "PREP",
+        "translation": "acerca de"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSN",
+        "translation": "el"
+      },
+      {
+        "original": "ἐμοῦ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      },
+      {
+        "original": "τέκνου,",
+        "lemma": "τέκνον",
+        "strong": "5043",
+        "parsing": "N-GSN",
+        "translation": "hijo"
+      },
+      {
+        "original": "ὃν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-ASM",
+        "translation": "cual"
+      },
+      {
+        "original": "ἐγέννησα",
+        "lemma": "γεννάω",
+        "strong": "1080",
+        "parsing": "V-AAI-1S",
+        "translation": "di nacimiento"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "τοῖς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DPM",
+        "translation": "las"
+      },
+      {
+        "original": "δεσμοῖς,",
+        "lemma": "δεσμόν",
+        "strong": "1199",
+        "parsing": "N-DPM",
+        "translation": "cadenas"
+      },
+      {
+        "original": "Ὀνήσιμον,",
+        "lemma": "Ὀνήσιμος",
+        "strong": "3682",
+        "parsing": "N-ASM",
+        "translation": "Onésimo"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:11\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον, ὃν ἀνέπεμψά σοι,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "τόν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-ASM",
+        "translation": "a el"
+      },
+      {
+        "original": "ποτέ",
+        "lemma": "ποτέ",
+        "strong": "4218",
+        "parsing": "PRT",
+        "translation": "en algún momento"
+      },
+      {
+        "original": "σοι",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "ἄχρηστον",
+        "lemma": "ἄχρηστος",
+        "strong": "890",
+        "parsing": "A-ASM",
+        "translation": "inútil"
+      },
+      {
+        "original": "νυνὶ",
+        "lemma": "νυνί",
+        "strong": "3570",
+        "parsing": "ADV",
+        "translation": "ahora"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "σοὶ",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἐμοὶ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "εὔχρηστον,",
+        "lemma": "εὔχρηστος",
+        "strong": "2173",
+        "parsing": "A-ASM",
+        "translation": "bien útil"
+      },
+      {
+        "original": "ὃν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-ASM",
+        "translation": "a quien"
+      },
+      {
+        "original": "ἀνέπεμψά",
+        "lemma": "ἀναπέμπω",
+        "strong": "375",
+        "parsing": "V-AAI-1S",
+        "translation": "envié de nuevo"
+      },
+      {
+        "original": "σοι,",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:12\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "αὐτόν,",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-ASM",
+        "translation": "a él"
+      },
+      {
+        "original": "τοῦτ’",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-NSN",
+        "translation": "esto"
+      },
+      {
+        "original": "ἔστιν",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAI-3S",
+        "translation": "está siendo"
+      },
+      {
+        "original": "τὰ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPN",
+        "translation": "los"
+      },
+      {
+        "original": "ἐμὰ",
+        "lemma": "ἐμός",
+        "strong": "1699",
+        "parsing": "S-1SNPN",
+        "translation": "míos"
+      },
+      {
+        "original": "σπλάγχνα.",
+        "lemma": "σπλάγχνον",
+        "strong": "4698",
+        "parsing": "N-NPN",
+        "translation": "tiernos cariños"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:13\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ὃν",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-ASM",
+        "translation": "A quien"
+      },
+      {
+        "original": "ἐγὼ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1NS",
+        "translation": "yo"
+      },
+      {
+        "original": "ἐβουλόμην",
+        "lemma": "βούλομαι",
+        "strong": "1014",
+        "parsing": "V-INI-1S",
+        "translation": "estaba queriendo"
+      },
+      {
+        "original": "πρὸς",
+        "lemma": "πρός",
+        "strong": "4314",
+        "parsing": "PREP",
+        "translation": "hacia"
+      },
+      {
+        "original": "ἐμαυτὸν",
+        "lemma": "ἐμαυτοῦ",
+        "strong": "1683",
+        "parsing": "F-1ASM",
+        "translation": "a mí mismo"
+      },
+      {
+        "original": "κατέχειν,",
+        "lemma": "κατέχω",
+        "strong": "2722",
+        "parsing": "V-PAN",
+        "translation": "estar reteniendo"
+      },
+      {
+        "original": "ἵνα",
+        "lemma": "ἵνα",
+        "strong": "2443",
+        "parsing": "CONJ",
+        "translation": "para que"
+      },
+      {
+        "original": "ὑπὲρ",
+        "lemma": "ὑπέρ",
+        "strong": "5228",
+        "parsing": "PREP",
+        "translation": "por"
+      },
+      {
+        "original": "σοῦ",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "μοι",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "διακονῇ",
+        "lemma": "διακονέω",
+        "strong": "1247",
+        "parsing": "V-PAS-3S",
+        "translation": "esté sirviendo"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "τοῖς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DPM",
+        "translation": "a las"
+      },
+      {
+        "original": "δεσμοῖς",
+        "lemma": "δεσμόν",
+        "strong": "1199",
+        "parsing": "N-DPM",
+        "translation": "cadenas"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSN",
+        "translation": "de el"
+      },
+      {
+        "original": "εὐαγγελίου,",
+        "lemma": "εὐαγγέλιον",
+        "strong": "2098",
+        "parsing": "N-GSN",
+        "translation": "buen mensaje"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:14\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "χωρὶς",
+        "lemma": "χωρίς",
+        "strong": "5565",
+        "parsing": "ADV",
+        "translation": "aparte de"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "τῆς",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSF",
+        "translation": "de la"
+      },
+      {
+        "original": "σῆς",
+        "lemma": "σός",
+        "strong": "4674",
+        "parsing": "S-2SGSF",
+        "translation": "tu"
+      },
+      {
+        "original": "γνώμης",
+        "lemma": "γνώμη",
+        "strong": "1106",
+        "parsing": "N-GSF",
+        "translation": "opinión"
+      },
+      {
+        "original": "οὐδὲν",
+        "lemma": "οὐδείς",
+        "strong": "3762",
+        "parsing": "A-ASN-N",
+        "translation": "nada"
+      },
+      {
+        "original": "ἠθέλησα",
+        "lemma": "θέλω",
+        "strong": "2309",
+        "parsing": "V-AAI-1S",
+        "translation": "quise"
+      },
+      {
+        "original": "ποιῆσαι,",
+        "lemma": "ποιέω",
+        "strong": "4160",
+        "parsing": "V-AAN",
+        "translation": "hacer"
+      },
+      {
+        "original": "ἵνα",
+        "lemma": "ἵνα",
+        "strong": "2443",
+        "parsing": "CONJ",
+        "translation": "para que"
+      },
+      {
+        "original": "μὴ",
+        "lemma": "μή",
+        "strong": "3361",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "como"
+      },
+      {
+        "original": "κατὰ",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "según"
+      },
+      {
+        "original": "ἀνάγκην",
+        "lemma": "ἀνάγκη",
+        "strong": "318",
+        "parsing": "N-ASF",
+        "translation": "necesidad"
+      },
+      {
+        "original": "τὸ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSN",
+        "translation": "lo"
+      },
+      {
+        "original": "ἀγαθόν",
+        "lemma": "ἀγαθός",
+        "strong": "18",
+        "parsing": "A-NSN",
+        "translation": "bueno"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ᾖ",
+        "lemma": "εἰμί",
+        "strong": "1510",
+        "parsing": "V-PAS-3S",
+        "translation": "esté siendo"
+      },
+      {
+        "original": "ἀλλὰ",
+        "lemma": "ἀλλά",
+        "strong": "235",
+        "parsing": "CONJ",
+        "translation": "sino"
+      },
+      {
+        "original": "κατὰ",
+        "lemma": "κατά",
+        "strong": "2596",
+        "parsing": "PREP",
+        "translation": "según"
+      },
+      {
+        "original": "ἑκούσιον.",
+        "lemma": "ἑκούσιον",
+        "strong": "1595",
+        "parsing": "A-ASN",
+        "translation": "voluntario"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:15\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν ἵνα αἰώνιον αὐτὸν ἀπέχῃς,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "τάχα",
+        "lemma": "τάχα",
+        "strong": "5029",
+        "parsing": "ADV",
+        "translation": "Quizás"
+      },
+      {
+        "original": "γὰρ",
+        "lemma": "γάρ",
+        "strong": "1063",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "διὰ",
+        "lemma": "διά",
+        "strong": "1223",
+        "parsing": "PREP",
+        "translation": "por"
+      },
+      {
+        "original": "τοῦτο",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-ASN",
+        "translation": "esto"
+      },
+      {
+        "original": "ἐχωρίσθη",
+        "lemma": "χωρίζω",
+        "strong": "5563",
+        "parsing": "V-API-3S",
+        "translation": "fue separado"
+      },
+      {
+        "original": "πρὸς",
+        "lemma": "πρός",
+        "strong": "4314",
+        "parsing": "PREP",
+        "translation": "hacia"
+      },
+      {
+        "original": "ὥραν",
+        "lemma": "ὥρα",
+        "strong": "5610",
+        "parsing": "N-ASF",
+        "translation": "hora"
+      },
+      {
+        "original": "ἵνα",
+        "lemma": "ἵνα",
+        "strong": "2443",
+        "parsing": "CONJ",
+        "translation": "para que"
+      },
+      {
+        "original": "αἰώνιον",
+        "lemma": "αἰώνιος",
+        "strong": "166",
+        "parsing": "A-ASM",
+        "translation": "eterno"
+      },
+      {
+        "original": "αὐτὸν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-ASM",
+        "translation": "a él"
+      },
+      {
+        "original": "ἀπέχῃς,",
+        "lemma": "ἀπέχω",
+        "strong": "568",
+        "parsing": "V-PAS-2S",
+        "translation": "estés teniendo de regreso"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:16\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "οὐκ ἔτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "οὐκ",
+        "lemma": "οὐ",
+        "strong": "3756",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "ἔτι",
+        "lemma": "ἔτι",
+        "strong": "2089",
+        "parsing": "ADV",
+        "translation": "todavía"
+      },
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "como"
+      },
+      {
+        "original": "δοῦλον",
+        "lemma": "δοῦλος",
+        "strong": "1401",
+        "parsing": "N-ASM",
+        "translation": "esclavo"
+      },
+      {
+        "original": "ἀλλὰ",
+        "lemma": "ἀλλά",
+        "strong": "235",
+        "parsing": "CONJ",
+        "translation": "sino"
+      },
+      {
+        "original": "ὑπὲρ",
+        "lemma": "ὑπέρ",
+        "strong": "5228",
+        "parsing": "PREP",
+        "translation": "por"
+      },
+      {
+        "original": "δοῦλον,",
+        "lemma": "δοῦλος",
+        "strong": "1401",
+        "parsing": "N-ASM",
+        "translation": "esclavo"
+      },
+      {
+        "original": "ἀδελφὸν",
+        "lemma": "ἀδελφός",
+        "strong": "80",
+        "parsing": "N-ASM",
+        "translation": "hermano"
+      },
+      {
+        "original": "ἀγαπητόν,",
+        "lemma": "ἀγαπητός",
+        "strong": "27",
+        "parsing": "A-ASM",
+        "translation": "amado"
+      },
+      {
+        "original": "μάλιστα",
+        "lemma": "μάλιστα",
+        "strong": "3122",
+        "parsing": "ADV-S",
+        "translation": "mayormente"
+      },
+      {
+        "original": "ἐμοί,",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "πόσῳ",
+        "lemma": "πόσος",
+        "strong": "4214",
+        "parsing": "Q-DSN",
+        "translation": "cuánto más"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "μᾶλλον",
+        "lemma": "μᾶλλον",
+        "strong": "3123",
+        "parsing": "ADV",
+        "translation": "aún más"
+      },
+      {
+        "original": "σοὶ",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "σαρκὶ",
+        "lemma": "σάρξ",
+        "strong": "4561",
+        "parsing": "N-DSF",
+        "translation": "carne"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "y"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "κυρίῳ.",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-DSM",
+        "translation": "Señor"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:17\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "εἰ",
+        "lemma": "εἰ",
+        "strong": "1487",
+        "parsing": "COND",
+        "translation": "si"
+      },
+      {
+        "original": "οὖν",
+        "lemma": "οὖν",
+        "strong": "3767",
+        "parsing": "CONJ",
+        "translation": "por lo tanto"
+      },
+      {
+        "original": "με",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1AS",
+        "translation": "a mí"
+      },
+      {
+        "original": "ἔχεις",
+        "lemma": "ἔχω",
+        "strong": "2192",
+        "parsing": "V-PAI-2S",
+        "translation": "estás teniendo"
+      },
+      {
+        "original": "κοινωνόν,",
+        "lemma": "κοινωνός",
+        "strong": "2844",
+        "parsing": "N-ASM",
+        "translation": "partícipe"
+      },
+      {
+        "original": "προσλαβοῦ",
+        "lemma": "προσλαμβάνω",
+        "strong": "4355",
+        "parsing": "V-2AMM-2S",
+        "translation": "recibas hacia ti"
+      },
+      {
+        "original": "αὐτὸν",
+        "lemma": "αὐτός",
+        "strong": "846",
+        "parsing": "P-ASM",
+        "translation": "a él"
+      },
+      {
+        "original": "ὡς",
+        "lemma": "ὡς",
+        "strong": "5613",
+        "parsing": "ADV",
+        "translation": "como"
+      },
+      {
+        "original": "ἐμέ.",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1AS",
+        "translation": "a mí"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:18\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ἐλλόγα·",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "εἰ",
+        "lemma": "εἰ",
+        "strong": "1487",
+        "parsing": "COND",
+        "translation": "Si"
+      },
+      {
+        "original": "δέ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "τι",
+        "lemma": "τὶς",
+        "strong": "5100",
+        "parsing": "X-ASN",
+        "translation": "algo"
+      },
+      {
+        "original": "ἠδίκησέν",
+        "lemma": "ἀδικέω",
+        "strong": "91",
+        "parsing": "V-AAI-3S",
+        "translation": "hizo no rectamente"
+      },
+      {
+        "original": "σε",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2AS",
+        "translation": "a ti"
+      },
+      {
+        "original": "ἢ",
+        "lemma": "ἤ",
+        "strong": "2228",
+        "parsing": "PRT",
+        "translation": "o"
+      },
+      {
+        "original": "ὀφείλει,",
+        "lemma": "ὀφείλω",
+        "strong": "3784",
+        "parsing": "V-PAI-3S",
+        "translation": "está debiendo"
+      },
+      {
+        "original": "τοῦτο",
+        "lemma": "οὗτος",
+        "strong": "3778",
+        "parsing": "D-ASN",
+        "translation": "a esto"
+      },
+      {
+        "original": "ἐμοὶ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "ἐλλόγα·",
+        "lemma": "ἐλλογέω",
+        "strong": "1677",
+        "parsing": "V-PAM-2S",
+        "translation": "estés poniendo en cuenta"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:19\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἐγὼ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1NS",
+        "translation": "Yo"
+      },
+      {
+        "original": "Παῦλος",
+        "lemma": "Παῦλος",
+        "strong": "3972",
+        "parsing": "N-NSM",
+        "translation": "Paulo"
+      },
+      {
+        "original": "ἔγραψα",
+        "lemma": "γράφω",
+        "strong": "1125",
+        "parsing": "V-AAI-1S",
+        "translation": "escribí"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a la"
+      },
+      {
+        "original": "ἐμῇ",
+        "lemma": "ἐμός",
+        "strong": "1699",
+        "parsing": "S-1SDSF",
+        "translation": "mi"
+      },
+      {
+        "original": "χειρί,",
+        "lemma": "χείρ",
+        "strong": "5495",
+        "parsing": "N-DSF",
+        "translation": "mano"
+      },
+      {
+        "original": "ἐγὼ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1NS",
+        "translation": "yo"
+      },
+      {
+        "original": "ἀποτίσω·",
+        "lemma": "ἀποτίνω",
+        "strong": "661",
+        "parsing": "V-FAI-1S",
+        "translation": "pagaré en compensación"
+      },
+      {
+        "original": "ἵνα",
+        "lemma": "ἵνα",
+        "strong": "2443",
+        "parsing": "CONJ",
+        "translation": "para que"
+      },
+      {
+        "original": "μὴ",
+        "lemma": "μή",
+        "strong": "3361",
+        "parsing": "PRT-N",
+        "translation": "no"
+      },
+      {
+        "original": "λέγω",
+        "lemma": "λέγω",
+        "strong": "3004",
+        "parsing": "V-PAS-1S",
+        "translation": "esté diciendo"
+      },
+      {
+        "original": "σοι",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "que"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "σεαυτόν",
+        "lemma": "σεαυτοῦ",
+        "strong": "4572",
+        "parsing": "F-2ASM",
+        "translation": "tú mismo"
+      },
+      {
+        "original": "μοι",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "προσοφείλεις.",
+        "lemma": "προσοφείλω",
+        "strong": "4359",
+        "parsing": "V-PAI-2S",
+        "translation": "estás debiendo hacia"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:20\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν κυρίῳ· ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ναί,",
+        "lemma": "ναί",
+        "strong": "3483",
+        "parsing": "PRT",
+        "translation": "Sí"
+      },
+      {
+        "original": "ἀδελφέ,",
+        "lemma": "ἀδελφός",
+        "strong": "80",
+        "parsing": "N-VSM",
+        "translation": "hermano"
+      },
+      {
+        "original": "ἐγώ",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1NS",
+        "translation": "yo"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ὀναίμην",
+        "lemma": "ὀνίνημι",
+        "strong": "3685",
+        "parsing": "V-2ADO-1S",
+        "translation": "podría aprovechar"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "κυρίῳ·",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-DSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "ἀνάπαυσόν",
+        "lemma": "ἀναπαύω",
+        "strong": "373",
+        "parsing": "V-AAM-2S",
+        "translation": "refresca"
+      },
+      {
+        "original": "μου",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      },
+      {
+        "original": "τὰ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-APN",
+        "translation": "a las"
+      },
+      {
+        "original": "σπλάγχνα",
+        "lemma": "σπλάγχνον",
+        "strong": "4698",
+        "parsing": "N-APN",
+        "translation": "compasiones"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "Χριστῷ.",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-DSM",
+        "translation": "Cristo"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:21\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Πεποιθὼς",
+        "lemma": "πείθω",
+        "strong": "3982",
+        "parsing": "V-2RAP-NSM",
+        "translation": "Habiendo sido convencido"
+      },
+      {
+        "original": "τῇ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-DSF",
+        "translation": "a la"
+      },
+      {
+        "original": "ὑπακοῇ",
+        "lemma": "ὑπακοή",
+        "strong": "5218",
+        "parsing": "N-DSF",
+        "translation": "obediencia"
+      },
+      {
+        "original": "σου",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2GS",
+        "translation": "de ti"
+      },
+      {
+        "original": "ἔγραψά",
+        "lemma": "γράφω",
+        "strong": "1125",
+        "parsing": "V-AAI-1S",
+        "translation": "escribí"
+      },
+      {
+        "original": "σοι,",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2DS",
+        "translation": "a ti"
+      },
+      {
+        "original": "εἰδὼς",
+        "lemma": "εἴδω",
+        "strong": "1492",
+        "parsing": "V-RAP-NSM",
+        "translation": "habiendo sabido"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "que"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "ὑπὲρ",
+        "lemma": "ὑπέρ",
+        "strong": "5228",
+        "parsing": "PREP",
+        "translation": "más allá"
+      },
+      {
+        "original": "ἃ",
+        "lemma": "ὅς",
+        "strong": "3739",
+        "parsing": "R-APN",
+        "translation": "cuales (cosas)"
+      },
+      {
+        "original": "λέγω",
+        "lemma": "λέγω",
+        "strong": "3004",
+        "parsing": "V-PAI-1S",
+        "translation": "estoy diciendo"
+      },
+      {
+        "original": "ποιήσεις.",
+        "lemma": "ποιέω",
+        "strong": "4160",
+        "parsing": "V-FAI-2S",
+        "translation": "harás"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:22\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "ἅμα",
+        "lemma": "ἅμα",
+        "strong": "260",
+        "parsing": "ADV",
+        "translation": "Al mismo tiempo"
+      },
+      {
+        "original": "δὲ",
+        "lemma": "δέ",
+        "strong": "1161",
+        "parsing": "CONJ",
+        "translation": "pero"
+      },
+      {
+        "original": "καὶ",
+        "lemma": "καί",
+        "strong": "2532",
+        "parsing": "CONJ",
+        "translation": "también"
+      },
+      {
+        "original": "ἑτοίμαζέ",
+        "lemma": "ἑτοιμάζω",
+        "strong": "2090",
+        "parsing": "V-PAM-2S",
+        "translation": "estés preparando"
+      },
+      {
+        "original": "μοι",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1DS",
+        "translation": "a mí"
+      },
+      {
+        "original": "ξενίαν·",
+        "lemma": "ξενία",
+        "strong": "3578",
+        "parsing": "N-ASF",
+        "translation": "hospedaje"
+      },
+      {
+        "original": "ἐλπίζω",
+        "lemma": "ἐλπίζω",
+        "strong": "1679",
+        "parsing": "V-PAI-1S",
+        "translation": "estoy esperando"
+      },
+      {
+        "original": "γὰρ",
+        "lemma": "γάρ",
+        "strong": "1063",
+        "parsing": "CONJ",
+        "translation": "porque"
+      },
+      {
+        "original": "ὅτι",
+        "lemma": "ὅτι",
+        "strong": "3754",
+        "parsing": "CONJ",
+        "translation": "que"
+      },
+      {
+        "original": "διὰ",
+        "lemma": "διά",
+        "strong": "1223",
+        "parsing": "PREP",
+        "translation": "a través"
+      },
+      {
+        "original": "τῶν",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GPF",
+        "translation": "de las"
+      },
+      {
+        "original": "προσευχῶν",
+        "lemma": "προσευχή",
+        "strong": "4335",
+        "parsing": "N-GPF",
+        "translation": "oraciones"
+      },
+      {
+        "original": "ὑμῶν",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2GP",
+        "translation": "de ustedes"
+      },
+      {
+        "original": "χαρισθήσομαι",
+        "lemma": "χαρίζομαι",
+        "strong": "5483",
+        "parsing": "V-FPI-1S",
+        "translation": "seré dado de gracia"
+      },
+      {
+        "original": "ὑμῖν.",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2DP",
+        "translation": "a ustedes"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:23\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ,",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ἀσπάζεταί",
+        "lemma": "ἀσπάζομαι",
+        "strong": "782",
+        "parsing": "V-PNI-3S",
+        "translation": "Está saludando"
+      },
+      {
+        "original": "σε",
+        "lemma": "σύ",
+        "strong": "4771",
+        "parsing": "P-2AS",
+        "translation": "a ti"
+      },
+      {
+        "original": "Ἐπαφρᾶς",
+        "lemma": "Ἐπαφρᾶς",
+        "strong": "1889",
+        "parsing": "N-NSM",
+        "translation": "Epafras"
+      },
+      {
+        "original": "ὁ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSM",
+        "translation": "el"
+      },
+      {
+        "original": "συναιχμάλωτός",
+        "lemma": "συναιχμάλωτος",
+        "strong": "4869",
+        "parsing": "A-NSM",
+        "translation": "compañero de cárcel"
+      },
+      {
+        "original": "μου",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      },
+      {
+        "original": "ἐν",
+        "lemma": "ἐν",
+        "strong": "1722",
+        "parsing": "PREP",
+        "translation": "en"
+      },
+      {
+        "original": "Χριστῷ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-DSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "Ἰησοῦ,",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-DSM",
+        "translation": "Jesús"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:24\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Μάρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Μάρκος,",
+        "lemma": "Μάρκος",
+        "strong": "3138",
+        "parsing": "N-NSM",
+        "translation": "Marcos"
+      },
+      {
+        "original": "Ἀρίσταρχος,",
+        "lemma": "Ἀρίσταρχος",
+        "strong": "708",
+        "parsing": "N-NSM",
+        "translation": "Aristarco"
+      },
+      {
+        "original": "Δημᾶς,",
+        "lemma": "Δημᾶς",
+        "strong": "1214",
+        "parsing": "N-NSM",
+        "translation": "Demas"
+      },
+      {
+        "original": "Λουκᾶς,",
+        "lemma": "Λουκᾶς",
+        "strong": "3065",
+        "parsing": "N-NSM",
+        "translation": "Lucas"
+      },
+      {
+        "original": "οἱ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NPM",
+        "translation": "los"
+      },
+      {
+        "original": "συνεργοί",
+        "lemma": "συνεργός",
+        "strong": "4904",
+        "parsing": "A-NPM",
+        "translation": "colaboradores"
+      },
+      {
+        "original": "μου.",
+        "lemma": "ἐγώ",
+        "strong": "1473",
+        "parsing": "P-1GS",
+        "translation": "de mí"
+      }
+    ]
+  },
+  {
+    "referencia": "Filemón 1:25\n    Reina Valera 1960",
+    "traduccion": "Estudio Bíblico Interlineal©\n        2026\n        Todos los derechos reservados",
+    "texto_original": "Ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.",
+    "idioma": "griego",
+    "palabras": [
+      {
+        "original": "Ἡ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-NSF",
+        "translation": "La"
+      },
+      {
+        "original": "χάρις",
+        "lemma": "χάρις",
+        "strong": "5485",
+        "parsing": "N-NSF",
+        "translation": "bondad inmerecida"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSM",
+        "translation": "de el"
+      },
+      {
+        "original": "κυρίου",
+        "lemma": "κύριος",
+        "strong": "2962",
+        "parsing": "N-GSM",
+        "translation": "Señor"
+      },
+      {
+        "original": "Ἰησοῦ",
+        "lemma": "Ἰησοῦς",
+        "strong": "2424",
+        "parsing": "N-GSM",
+        "translation": "Jesús"
+      },
+      {
+        "original": "Χριστοῦ",
+        "lemma": "Χριστός",
+        "strong": "5547",
+        "parsing": "N-GSM",
+        "translation": "Cristo"
+      },
+      {
+        "original": "μετὰ",
+        "lemma": "μετά",
+        "strong": "3326",
+        "parsing": "PREP",
+        "translation": "con"
+      },
+      {
+        "original": "τοῦ",
+        "lemma": "ὁ",
+        "strong": "3588",
+        "parsing": "T-GSN",
+        "translation": "el"
+      },
+      {
+        "original": "πνεύματος",
+        "lemma": "πνεῦμα",
+        "strong": "4151",
+        "parsing": "N-GSN",
+        "translation": "espíritu"
+      },
+      {
+        "original": "ὑμῶν.",
+        "lemma": "ὑμεῖς",
+        "strong": "5210",
+        "parsing": "P-2GP",
+        "translation": "de ustedes"
+      }
+    ]
+  }
+]
